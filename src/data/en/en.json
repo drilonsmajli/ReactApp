@@ -65,6 +65,33 @@
       "post3_title": "I&E Networks",
       "post3_content": "We created and build networks to strengthen the innovation and entrepreneurship ecosystem, both nationally and within individual organizators and schools.",
       "post3_info": "Learn more"
+    },
+    "sponsor": "Founders & Partners",
+    "footer": {
+      "subscribe": "Subscribe to our Newsletter!",
+      "about": {
+        "about": "About",
+        "team": "Team",
+        "approach": "Approach",
+        "news": "News & Press",
+        "aboutus": "About us"
+      },
+      "legal": {
+        "legal": "Legal",
+        "terms": "Terms of use",
+        "privacy": "Privacy Policy",
+        "copyrightinfo": "Copyright info",
+        "disclaimers": "Disclaimers"
+      },
+      "support": {
+        "support": "Support",
+        "faq": "FAQ",
+        "features": "Features",
+        "contact": "Contact us",
+        "guides": "Guides",
+        "documentation": "Documentation"
+      },
+      "download": "Download KreditKos App"
     }
   },
   "shqip": {
@@ -133,6 +160,33 @@
       "post3_title": "Rrjetet I&E",
       "post3_content": "Ne krijuam dhe ndërtuam rrjete për të forcuar ekosistemin e inovacionit dhe sipërmarrjes, si në rang kombëtar ashtu edhe brenda organizatorëve individual dhe shkollave.",
       "post3_info": "Learn more"
+    },
+    "sponsor": "Themeluesit & Partnerët",
+    "footer": {
+      "subscribe": "Subscribe to our Newsletter!",
+      "about": {
+        "about": "Rreth",
+        "team": "Skuadra",
+        "approach": "Qasja",
+        "news": "Lajme & Shtyp",
+        "aboutus": "Rreth nesh"
+      },
+      "legal": {
+        "legal": "Juridike",
+        "terms": "Terms of use",
+        "privacy": "Privacy Policy",
+        "copyrightinfo": "Informacione për të drejtat e autorit",
+        "disclaimers": "Refuzimet"
+      },
+      "support": {
+        "support": "Mbështetje",
+        "faq": "FAQ",
+        "features": "Tiparet",
+        "contact": "Na kontaktoni",
+        "guides": "Udhëzuesit",
+        "documentation": "Documentation"
+      },
+      "download": "Shkarkoni Aplikacionin KreditKos"
     }
   },
   "german": {
@@ -201,6 +255,33 @@
       "post3_title": "I&E Networks",
       "post3_content": "Wir haben Netzwerke geschaffen und aufgebaut, um das Ökosystem für Innovation und Unternehmertum sowohl auf nationaler Ebene als auch innerhalb einzelner Organisatoren und Schulen zu stärken.",
       "post3_info": "Mehr erfahren"
+    },
+    "sponsor": "Gründer & Partner",
+    "footer": {
+      "subscribe": "Abonnieren Sie unseren Newsletter!",
+      "about": {
+        "about": "Über",
+        "team": "Mannschaft",
+        "approach": "Ansatz",
+        "news": "Nachrichten & Presse",
+        "aboutus": "Über uns"
+      },
+      "legal": {
+        "legal": "Legal",
+        "terms": "Nutzungsbedingungen",
+        "privacy": "Privacy Policy",
+        "copyrightinfo": "Copyright-Informationen",
+        "disclaimers": "Haftungsausschluss"
+      },
+      "support": {
+        "support": "Unterstützung",
+        "faq": "FAQ",
+        "features": "Features",
+        "contact": "Kontaktiere uns",
+        "guides": "Führer",
+        "documentation": "Documentation"
+      },
+      "download": "Laden Sie die KreditKos App herunter"
     }
   }
 }

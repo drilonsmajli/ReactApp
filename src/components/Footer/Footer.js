@@ -41,7 +41,7 @@ class Footer extends Component {
       <div className="footer" style={{ backgroundColor: light, color: color }}>
         <div className="footer__top">
           <div className="title">
-            <h1>Subscribe to our Newsletter!</h1>
+            <h1>{this.props.en.footer.subscribe}</h1>
           </div>
           <div className="buttons">
             <input type="text" value="Your email" />
@@ -60,26 +60,32 @@ class Footer extends Component {
           <div className="adress">
             <p>San Francisco HQ</p>
             <p>San Francisco,CA 49503</p>
+            <p>San Francisco, CA 49503</p>
+            <br />
+            <p>Tel:(888)-353-3532</p>
+            <p>Fax:(888)-353-3532</p>
           </div>
           <div className="about">
-            <p>About</p>
+            <p>{this.props.en.footer.about.about}</p>
+            <p>{this.props.en.footer.about.team}</p>
+            <p>{this.props.en.footer.about.approach}</p>
+            <p>{this.props.en.footer.about.news}</p>
+            <p>{this.props.en.footer.about.aboutus}</p>
           </div>
           <div className="legal">
-            <p>News{"&"}Press</p>
-            <p>News{"&"}Press</p>
-            <p>News{"&"}Press</p>
-            <p>News{"&"}Press</p>
-            <p>News{"&"}Press</p>
-            <p>News{"&"}Press</p>
-            <p>News{"&"}Press</p>
+            <p>{this.props.en.footer.legal.legal}</p>
+            <p>{this.props.en.footer.legal.terms}</p>
+            <p>{this.props.en.footer.legal.privatcy}</p>
+            <p>{this.props.en.footer.legal.copyright}</p>
+            <p>{this.props.en.footer.legal.dislaimers}</p>
           </div>
           <div className="support">
-            <p>Support</p>
-            <p>Support</p>
-            <p>Support</p>
-            <p>Support</p>
-            <p>Support</p>
-            <p>Support</p>
+            <p>{this.props.en.footer.support.support}</p>
+            <p>{this.props.en.footer.support.faq}</p>
+            <p>{this.props.en.footer.support.features}</p>
+            <p>{this.props.en.footer.support.contact}</p>
+            <p>{this.props.en.footer.support.guides}</p>
+            <p>{this.props.en.footer.support.documentation}</p>
           </div>
           <div className="logo">
             <div className="top">
@@ -89,7 +95,9 @@ class Footer extends Component {
               <div className="name">KreditKos</div>
             </div>
             <div className="bottom">
-              <p>Download KreditKos App</p>
+              <p>
+                <p>{this.props.en.footer.download}</p>
+              </p>
               <div className="logos">
                 <div className="logo1">
                   <img src={apple} alt="apple" />

@@ -10,6 +10,8 @@ import Footer from "../components/Footer/Footer";
 import GetStarted from "../components/GetStarted/GetStarted";
 import Vision from "../components/Vision/Vision";
 import en from "../data/en/en.json";
+import SponsorCarousel from "../components/Sponsor-carusel/SponsorCarousel";
+import Sponsor from "../components/Sponsor-carusel/Sponsor";
 
 class Landing extends Component {
   state = {
@@ -65,6 +67,7 @@ class Landing extends Component {
         <Marketing en={this.state.en} />
         <GetStarted en={this.state.en} />
         <Vision en={this.state.en} />
+        <Sponsor en={this.state.en} />
         <Footer en={this.state.en} />
       </React.Fragment>
     );
