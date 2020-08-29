@@ -1,0 +1,206 @@
+{
+  "english": {
+    "Language": "English",
+    "buttons": {
+      "Login": "Log in",
+      "Signup": "Sign Up"
+    },
+    "navbar": [
+      {
+        "Home": "Home",
+        "StartupIncubator": "Startup Incubator",
+        "Partnerships": "Partnerships",
+        "Contact": "Contact",
+        "Services": "Services"
+      }
+    ],
+    "navcontent": {
+      "title": "Instant access to investing, anytime and anywhere",
+      "paragraph": "We help you grow with smart money for 12 months",
+      "textbutton1": "Get Started for Free",
+      "textbutton2": "View our Partnerships",
+      "accounts": {
+        "demoaccounts": "$10 000 demo accounts",
+        "demoaccountsContent": "Test your investing stratrgy with free demo account",
+        "deposit": "$10 minimum deposit",
+        "depositcontent": "No fees when you make a deposit or withdraw funds",
+        "investment": "$1 minimum investment",
+        "investmentContent": "It's easy to get started with small amounts of money"
+      }
+    },
+    "invest": {
+      "title": "Invest in the world's most popular assets",
+      "content": "From established industries to booming new age up-and- comers-- pick from over a dozen of different routes to a smart investment"
+    },
+    "features": {
+      "title": "Powerful and easy-to-use features",
+      "content": "Sometimes investing can be complicated and confusing. IQ Option breaks down the complexities of investing with intuitive tools that add"
+    },
+    "buildinvesting": {
+      "title": "Build your investing foundation",
+      "content": "We all have to start somewhere. Let us help get you on the right track as you start your investing journey. With our video tutorials section you'll be"
+    },
+    "marketing": {
+      "title": "What our client say",
+      "content": "Trusted by over 46,000 investors around the world"
+    },
+    "getstarted": {
+      "title": "It's easy to get started",
+      "post1_title": "Sign up",
+      "post1_content": "Create an account for free using your email address",
+      "post2_title": "Explore the platform",
+      "post2_content": "See what it's like to invest without putting your money at risk",
+      "post3__title": "Invest & earn profit",
+      "post3__content": "Select an asset and make your money work for you"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": " We envision a world in which science and technology innovators have the support, training, and access to networks and resources they need to solve the world's most difficult",
+      "post1_title": "Early-Stage innovators",
+      "post1_content": "We work directly with a varienty of early-stage innovators to help them bring their ideas to market through workshops and training,coaching and mentoring,funding and awards.",
+      "post1_info": "Learn more",
+      "post2_title": "Faculty Initiatives",
+      "post2_content": "We support faculty in developing programs that cultivate student innovators and promote institutional change throught grants, workshops, training, and conferences.",
+      "post2_info": "Learn more",
+      "post3_title": "I&E Networks",
+      "post3_content": "We created and build networks to strengthen the innovation and entrepreneurship ecosystem, both nationally and within individual organizators and schools.",
+      "post3_info": "Learn more"
+    }
+  },
+  "shqip": {
+    "Language": "Shqip",
+    "buttons": {
+      "Login": "Kyqu",
+      "Signup": "Regjistrohu"
+    },
+    "navbar": [
+      {
+        "Home": "Kryefaqja",
+        "StartupIncubator": "Startup Incubator",
+        "Partnerships": "Partneret",
+        "Contact": "Kontakti",
+        "Services": "Sherbimet"
+      }
+    ],
+    "navcontent": {
+      "title": "Investim i menjehershem kurdo dhe kudo",
+      "paragraph": "Ne ju ndihmojme qe te zhvilloheni me para te gatshme per 12 muaj",
+      "textbutton1": "Provoni falas",
+      "textbutton2": "Partneret tane",
+      "accounts": {
+        "demoaccounts": "$10 000 llogari demo",
+        "demoaccountsContent": "Testo strategjin tende te investimit per demo llogarive",
+        "deposit": "$10 depositi minimal",
+        "depositcontent": "Pa tarife ne deposit dhe terheqje fondesh",
+        "investment": "$1 ivestimi minimal",
+        "investmentContent": "Eshte leht te fillosh me shuma te vogla parash"
+      }
+    },
+    "invest": {
+      "title": "Investoni në pasuritë më të njohura në botë",
+      "content": "Nga industritë e krijuara deri tek rritjet e ardhshme të epokave të reja - zgjidhni nga më shumë se një duzinë rrugësh të ndryshme drejt një investimi inteligjent"
+    },
+    "features": {
+      "title": "Karakteristika të fuqishme dhe të lehtë për t’u përdorur",
+      "content": "Ndonjëherë investimi mund të jetë i komplikuar dhe konfuz. IQ Option prish kompleksitetin e investimit me mjete intuitive që shtojnë"
+    },
+    "buildinvesting": {
+      "title": "Ndërtoni fondacionin tuaj për investime",
+      "content": "Të gjithë duhet të fillojmë diku. Le të ju ndihmojmë t'ju çojmë në rrugën e duhur ndërsa filloni udhëtimin tuaj për investime. Me seksionin e mësimeve video ju do të jeni"
+    },
+    "marketing": {
+      "title": "Cfarë thonë klientet tanë",
+      "content": "Besuar nga mbi 46,000 investitorë në të gjithë botën"
+    },
+    "getstarted": {
+      "title": "Eshtë e thjeshtë për të filluar",
+      "post1_title": "Regjistrohu",
+      "post1_content": "Krijoni një llogari falas duke përdorur adresën tuaj të postës elektronike",
+      "post2_title": "Eksploroni platformën",
+      "post2_content": "Shikoni se si është të investoni pa i rrezikuar paratë tuaja",
+      "post3__title": "Investoni dhe fitoni fitim",
+      "post3__content": "Zgjidhni një pasuri dhe bëni paratë tuaja të funksionojnë për ju"
+    },
+    "vision": {
+      "title": "Visioni Yne",
+      "content": "Ne parashikojmë një botë në të cilën novatorët e shkencës dhe teknologjisë kanë mbështetjen, trajnimin dhe aksesin në rrjete dhe burime të nevojshme për të zgjidhur më të vështirat në botë",
+      "post1_title": "Inovatorët e hershëm",
+      "post1_content": "Ne punojmë drejtpërdrejt me një shumëllojshmëri të novatorëve të fazës së hershme për t'i ndihmuar ata të sjellin idetë e tyre në treg përmes punëtorive dhe trajnimeve, stërvitjes dhe mentorimit, fondeve dhe çmimeve.",
+      "post1_info": "Learn more",
+      "post2_title": "Nismat e Fakultetit",
+      "post2_content": "Ne mbështesim fakultetin në zhvillimin e programeve që kultivojnë novatorë studentorë dhe nxisin ndryshime institucionale përmes granteve, punëtorive, trajnimeve dhe konferencave.",
+      "post2_info": "Learn more",
+      "post3_title": "Rrjetet I&E",
+      "post3_content": "Ne krijuam dhe ndërtuam rrjete për të forcuar ekosistemin e inovacionit dhe sipërmarrjes, si në rang kombëtar ashtu edhe brenda organizatorëve individual dhe shkollave.",
+      "post3_info": "Learn more"
+    }
+  },
+  "german": {
+    "Language": "German",
+    "buttons": {
+      "Login": "Anmeldung",
+      "Signup": "Anmelden"
+    },
+    "navbar": [
+      {
+        "Home": "Zuhause",
+        "StartupIncubator": "Startup Incubator",
+        "Partnerships": "Partnerschaften",
+        "Contact": "Kontakt",
+        "Services": "Dienstleistungen"
+      }
+    ],
+    "navcontent": {
+      "title": "Sofortiger Zugang zu Investitionen, jederzeit und überall",
+      "paragraph": "Wir helfen Ihnen, 12 Monate lang mit intelligentem Geld zu wachsen",
+      "textbutton1": "Kostenlos loslegen",
+      "textbutton2": "Sehen Sie sich unsere Partnerschaften an",
+      "accounts": {
+        "demoaccounts": "Demo-Konten im Wert von $10 000",
+        "demoaccountsContent": "Testen Sie Ihre Anlagestrategie mit einem kostenlosen Demo-Konto",
+        "deposit": "$10 Mindesteinzahlung",
+        "depositcontent": "Keine Gebühren, wenn Sie eine Einzahlung vornehmen oder Geld abheben",
+        "investment": "$1 Mindestinvestition",
+        "investmentContent": "Es ist einfach, mit kleinen Geldbeträgen zu beginnen"
+      }
+    },
+    "invest": {
+      "title": "Investieren Sie in die weltweit beliebtesten Vermögenswerte",
+      "content": "Von etablierten Branchen bis hin zu boomenden New-Age-Nachwuchskräften - wählen Sie aus über einem Dutzend verschiedener Wege zu einer intelligenten Investition"
+    },
+    "features": {
+      "title": "Leistungsstarke und benutzerfreundliche Funktionen",
+      "content": "Manchmal kann das Investieren kompliziert und verwirrend sein. IQ Option reduziert die Komplexität des Investierens mit intuitiven Tools"
+    },
+    "buildinvesting": {
+      "title": "Bauen Sie Ihre Investitionsgrundlage auf",
+      "content": "Wir müssen alle irgendwo anfangen. Lassen Sie sich von uns auf den richtigen Weg bringen, wenn Sie Ihre Investitionsreise antreten. Mit unserem Video-Tutorial-Bereich werden Sie"
+    },
+    "marketing": {
+      "title": "Was unser Kunde sagt",
+      "content": "Vertrauen von über 46.000 Investoren auf der ganzen Welt"
+    },
+    "getstarted": {
+      "title": "Es ist einfach, loszulegen",
+      "post1_title": "Anmelden",
+      "post1_content": "Erstellen Sie kostenlos ein Konto mit Ihrer E-Mail-Adresse",
+      "post2_title": "Entdecken Sie die Plattform",
+      "post2_content": "Sehen Sie, wie es ist, zu investieren, ohne Ihr Geld zu gefährden",
+      "post3__title": "Investieren & Gewinn machen",
+      "post3__content": "Wählen Sie einen Vermögenswert aus und lassen Sie Ihr Geld für Sie arbeiten"
+    },
+    "vision": {
+      "title": "Unsere Vision",
+      "content": "Wir stellen uns eine Welt vor, in der Innovatoren aus Wissenschaft und Technologie die Unterstützung, Schulung und den Zugang zu Netzwerken und Ressourcen haben, die sie benötigen, um die schwierigsten Probleme der Welt zu lösen",
+      "post1_title": "Innovatoren im Frühstadium",
+      "post1_content": "Wir arbeiten direkt mit einer Vielzahl von Innovatoren im Frühstadium zusammen, um ihnen zu helfen, ihre Ideen durch Workshops und Schulungen, Coaching und Mentoring, Finanzierung und Auszeichnungen auf den Markt zu bringen.",
+      "post1_info": "Mehr erfahren",
+      "post2_title": "Faculty Initiatives",
+      "post2_content": "Wir unterstützen die Fakultät bei der Entwicklung von Programmen, die studentische Innovatoren fördern und den institutionellen Wandel durch Zuschüsse, Workshops, Schulungen und Konferenzen fördern.",
+      "post2_info": "Mehr erfahren",
+      "post3_title": "I&E Networks",
+      "post3_content": "Wir haben Netzwerke geschaffen und aufgebaut, um das Ökosystem für Innovation und Unternehmertum sowohl auf nationaler Ebene als auch innerhalb einzelner Organisatoren und Schulen zu stärken.",
+      "post3_info": "Mehr erfahren"
+    }
+  }
+}
