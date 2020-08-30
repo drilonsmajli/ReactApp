@@ -41,45 +41,40 @@ class Landing extends Component {
     }
   }
   render() {
+    let languageButton = (
+      <div class="dropdown" style={{ float: "left" }}>
+        <button class="dropbtn">Switch Language:</button>
+        <div class="dropdown-content" style={{ float: "left" }}>
+          <button
+            className={
+              this.state.en.english ? "switchLanguage active" : "switchLanguage"
+            }
+            onClick={this.switchLanguageHandler}
+          >
+            {"English"}
+          </button>
+          <button
+            className={
+              this.state.en.shqip ? "switchLanguage active" : "switchLanguage"
+            }
+            onClick={this.switchLanguage1Handler}
+          >
+            {"Shqip"}
+          </button>
+          <button
+            className={
+              this.state.en.german ? "switchLanguage active" : "switchLanguage"
+            }
+            onClick={this.switchLanguage2Handler}
+          >
+            {"German"}
+          </button>
+        </div>
+      </div>
+    );
     return (
       <React.Fragment>
-        <div className="switchLanguage">
-          <div class="dropdown" style={{ float: "left" }}>
-            <button class="dropbtn">Switch Language:</button>
-            <div class="dropdown-content" style={{ float: "left" }}>
-              <button
-                className={
-                  this.state.en.english
-                    ? "switchLanguage active"
-                    : "switchLanguage"
-                }
-                onClick={this.switchLanguageHandler}
-              >
-                {"English"}
-              </button>
-              <button
-                className={
-                  this.state.en.shqip
-                    ? "switchLanguage active"
-                    : "switchLanguage"
-                }
-                onClick={this.switchLanguage1Handler}
-              >
-                {"Shqip"}
-              </button>
-              <button
-                className={
-                  this.state.en.german
-                    ? "switchLanguage active"
-                    : "switchLanguage"
-                }
-                onClick={this.switchLanguage2Handler}
-              >
-                {"German"}
-              </button>
-            </div>
-          </div>
-        </div>
+        <div className="switchLanguage">{languageButton}</div>
         <Navbar en={this.state.en} />
         <Investing en={this.state.en} />
         <Features en={this.state.en} />
