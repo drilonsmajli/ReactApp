@@ -10,7 +10,6 @@ import Footer from "../components/Footer/Footer";
 import GetStarted from "../components/GetStarted/GetStarted";
 import Vision from "../components/Vision/Vision";
 import en from "../data/en/en.json";
-import SponsorCarousel from "../components/Sponsor-carusel/SponsorCarousel";
 import Sponsor from "../components/Sponsor-carusel/Sponsor";
 
 class Landing extends Component {
@@ -19,23 +18,16 @@ class Landing extends Component {
   };
 
   switchLanguageHandler = () => {
-    let num = window.localStorage.getItem("num");
-    console.log(num);
-
-    window.localStorage.setItem("num", +num + 1);
-    if (+num == 1) {
-      this.setState({ en: en.english });
-      // window.localStorage.setItem("num", +num + 1);
-    } else if (+num == 2) {
-      this.setState({ en: en.shqip });
-      // window.localStorage.setItem("num", +num + 1);
-    } else if (+num == 3) {
-      this.setState({ en: en.german });
-    }
-
-    if (num >= 3) {
-      window.localStorage.setItem("num", 1);
-    }
+    window.localStorage.setItem("num", 1);
+    this.setState({ en: en.english });
+  };
+  switchLanguage1Handler = () => {
+    window.localStorage.setItem("num", 2);
+    this.setState({ en: en.shqip });
+  };
+  switchLanguage2Handler = () => {
+    window.localStorage.setItem("num", 3);
+    this.setState({ en: en.german });
   };
 
   componentDidMount() {
@@ -52,13 +44,41 @@ class Landing extends Component {
     return (
       <React.Fragment>
         <div className="switchLanguage">
-          Switch Language:
-          <button
-            className="switchLanguage"
-            onClick={this.switchLanguageHandler}
-          >
-            {this.state.en.Language}
-          </button>
+          <div class="dropdown" style={{ float: "left" }}>
+            <button class="dropbtn">Switch Language:</button>
+            <div class="dropdown-content" style={{ float: "left" }}>
+              <button
+                className={
+                  this.state.en.english
+                    ? "switchLanguage active"
+                    : "switchLanguage"
+                }
+                onClick={this.switchLanguageHandler}
+              >
+                {"English"}
+              </button>
+              <button
+                className={
+                  this.state.en.shqip
+                    ? "switchLanguage active"
+                    : "switchLanguage"
+                }
+                onClick={this.switchLanguage1Handler}
+              >
+                {"Shqip"}
+              </button>
+              <button
+                className={
+                  this.state.en.german
+                    ? "switchLanguage active"
+                    : "switchLanguage"
+                }
+                onClick={this.switchLanguage2Handler}
+              >
+                {"German"}
+              </button>
+            </div>
+          </div>
         </div>
         <Navbar en={this.state.en} />
         <Investing en={this.state.en} />

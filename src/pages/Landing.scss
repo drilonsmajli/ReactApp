@@ -2,4 +2,54 @@
   height: 35px;
   border-radius: 45px;
   background-color: lightblue;
+  display: flex;
+  .active,
+  :hover {
+    background-color: #666;
+    color: white;
+  }
+
+  button {
+    padding: 5px;
+  }
+
+  .dropbtn {
+    background-color: #4caf50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+
+  .dropdown {
+    position: relative;
+    display: flex;
+    margin-top: -5px;
+  }
+
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    margin-top: 5px;
+  }
+
+  .dropdown:hover .dropdown-content {
+    margin-left: 160px;
+    width: 400px;
+    display: flex;
+    background-color: lightblue;
+  }
+
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
+
+  .dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+  }
 }

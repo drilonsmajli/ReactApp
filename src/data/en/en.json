@@ -1,6 +1,6 @@
 {
   "english": {
-    "Language": "English",
+    "english": "English",
     "buttons": {
       "Login": "Log in",
       "Signup": "Sign Up"
@@ -95,7 +95,7 @@
     }
   },
   "shqip": {
-    "Language": "Shqip",
+    "shqip": "Shqip",
     "buttons": {
       "Login": "Kyqu",
       "Signup": "Regjistrohu"
@@ -190,7 +190,7 @@
     }
   },
   "german": {
-    "Language": "German",
+    "german": "German",
     "buttons": {
       "Login": "Anmeldung",
       "Signup": "Anmelden"
