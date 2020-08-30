@@ -65,6 +65,11 @@
       text-align: left;
       letter-spacing: NaNpx;
       opacity: 0.91;
+      @media (max-width: 600px) {
+        p {
+          margin-left: -5px;
+        }
+      }
     }
     .about {
       width: 8%;
@@ -77,6 +82,11 @@
       text-align: left;
       letter-spacing: NaNpx;
       opacity: 0.91;
+      @media (max-width: 600px) {
+        p {
+          margin-left: -5px;
+        }
+      }
     }
 
     @media (max-width: 1462px) {
@@ -120,6 +130,13 @@
         font-weight: 500;
         letter-spacing: 0px;
         opacity: 1;
+        @media (max-width: 600px) {
+          margin-left: 40px;
+          margin-top: 20px;
+          p {
+            font-size: 5px;
+          }
+        }
         .logos {
           display: flex;
           .logo1 {
@@ -238,7 +255,6 @@
         }
         @media (max-width: 600px) {
           font-size: 10px;
-          // width: 580px;
         }
       }
       .icons {
@@ -259,8 +275,8 @@
         }
         @media (max-width: 600px) {
           i {
-            font-size: 20px;
-            width: 30px;
+            font-size: 16px;
+            width: 15px;
           }
         }
       }

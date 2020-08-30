@@ -19,117 +19,118 @@ function Features(props) {
         </div>
         <div className="products">
           <div className="products__wrapper">
-            <div className="product">
-              <div className="products__content">
-                <p>Use smart newsfeed to make informed desicions</p>
-              </div>
-              <div className="product__info">
-                <div className="info">
-                  <img
-                    src={rectangle}
-                    alt="rectangle"
-                    style={{ width: "100%", height: "100%" }}
-                  />
-                  <div className="news">
-                    <div className="icon">
-                      <img
-                        src={forbes}
-                        alt="forbes"
-                        style={{ width: "20px", borderRadius: "25px" }}
-                      />
+            <div className="product__wrapper">
+              <div className="product">
+                <div className="products__content">
+                  <p>Use smart newsfeed to make informed desicions</p>
+                </div>
+                <div className="product__info">
+                  <div className="info">
+                    <img src={rectangle} alt="rectangle" />
+                    <div className="news">
+                      <div className="icon">
+                        <img
+                          src={forbes}
+                          alt="forbes"
+                          style={{ width: "20px", borderRadius: "25px" }}
+                        />
+                      </div>
+                      <div className="title">
+                        <p>Forbes Today at 1.00pm</p>
+                      </div>
                     </div>
-                    <div className="title">
-                      <p>Forbes Today at 1.00pm</p>
+                    <div className="titlenews">
+                      IBM raises the bar for storage again
                     </div>
-                  </div>
-                  <div className="titlenews">
-                    IBM raises the bar for storage again
-                  </div>
-                  <div className="shownews">
-                    <img src={ibm} alt="ibm" style={{ width: "80%" }} />
+                    <div className="shownews">
+                      <img src={ibm} alt="ibm" style={{ width: "80%" }} />
+                    </div>
                   </div>
                 </div>
+                <img
+                  src={rectangle}
+                  alt="rectangle"
+                  style={{ width: "100%", height: "100%" }}
+                />
               </div>
-              <img
-                src={rectangle}
-                alt="rectangle"
-                style={{ width: "100%", height: "100%" }}
-              />
             </div>
-
-            <div className="product">
-              <div className="products__content">
-                <p>Invest wisely with a variety of indicators</p>
-              </div>
-              <div className="product__info">
-                <div className="info">
-                  <img
-                    src={rectangle}
-                    alt="rectangle"
-                    style={{ width: "100%", height: "100%" }}
-                  />
-                  <div className="news">
-                    <div className="icon">
-                      <img
-                        src={forbes}
-                        alt="forbes"
-                        style={{ width: "20px", borderRadius: "25px" }}
-                      />
+            <div className="product__wrapper">
+              <div className="product">
+                <div className="products__content">
+                  <p>Use smart newsfeed to make informed desicions</p>
+                </div>
+                <div className="product__info">
+                  <div className="info">
+                    <img
+                      src={rectangle}
+                      alt="rectangle"
+                      style={{ width: "100%", height: "100%" }}
+                    />
+                    <div className="news">
+                      <div className="icon">
+                        <img
+                          src={forbes}
+                          alt="forbes"
+                          style={{ width: "20px", borderRadius: "25px" }}
+                        />
+                      </div>
+                      <div className="title">
+                        <p>Forbes Today at 1.00pm</p>
+                      </div>
                     </div>
-                    <div className="title">
-                      <p>Forbes Today at 1.00pm</p>
+                    <div className="titlenews">
+                      IBM raises the bar for storage again
                     </div>
-                  </div>
-                  <div className="titlenews">
-                    IBM raises the bar for storage again
-                  </div>
-                  <div className="shownews">
-                    <img src={ibm} alt="ibm" style={{ width: "80%" }} />
+                    <div className="shownews">
+                      <img src={ibm} alt="ibm" style={{ width: "80%" }} />
+                    </div>
                   </div>
                 </div>
+                <img
+                  src={rectangle}
+                  alt="rectangle"
+                  style={{ width: "100%", height: "100%" }}
+                />
               </div>
-              <img
-                src={rectangle}
-                alt="rectangle"
-                style={{ width: "100%", height: "100%" }}
-              />
             </div>
-            <div className="product">
-              <div className="products__content">
-                <p>Harnnes the power of a supportive community</p>
-              </div>
-              <div className="product__info">
-                <div className="info">
-                  <img
-                    src={rectangle}
-                    alt="rectangle"
-                    style={{ width: "100%", height: "100%" }}
-                  />
-                  <div className="news">
-                    <div className="icon">
-                      <img
-                        src={forbes}
-                        alt="forbes"
-                        style={{ width: "20px", borderRadius: "25px" }}
-                      />
+            <div className="product__wrapper">
+              <div className="product">
+                <div className="products__content">
+                  <p>Use smart newsfeed to make informed desicions</p>
+                </div>
+                <div className="product__info">
+                  <div className="info">
+                    <img
+                      src={rectangle}
+                      alt="rectangle"
+                      style={{ width: "100%", height: "100%" }}
+                    />
+                    <div className="news">
+                      <div className="icon">
+                        <img
+                          src={forbes}
+                          alt="forbes"
+                          style={{ width: "20px", borderRadius: "25px" }}
+                        />
+                      </div>
+                      <div className="title">
+                        <p>Forbes Today at 1.00pm</p>
+                      </div>
                     </div>
-                    <div className="title">
-                      <p>Forbes Today at 1.00pm</p>
+                    <div className="titlenews">
+                      IBM raises the bar for storage again
                     </div>
-                  </div>
-                  <div className="titlenews">
-                    IBM raises the bar for storage again
-                  </div>
-                  <div className="shownews">
-                    <img src={ibm} alt="ibm" style={{ width: "80%" }} />
+                    <div className="shownews">
+                      <img src={ibm} alt="ibm" style={{ width: "80%" }} />
+                    </div>
                   </div>
                 </div>
+                <img
+                  src={rectangle}
+                  alt="rectangle"
+                  style={{ width: "100%", height: "100%" }}
+                />
               </div>
-              <img
-                src={rectangle}
-                alt="rectangle"
-                style={{ width: "100%", height: "100%" }}
-              />
             </div>
           </div>
         </div>

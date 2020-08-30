@@ -219,6 +219,7 @@
       @media (max-width: 800px) {
         width: 490px;
         flex-direction: column;
+        margin-top: -120px;
         .infoButton1 {
           padding: 0;
           width: 80px;
@@ -247,7 +248,7 @@
     .Navbar__footer {
       position: absolute;
       width: 100%;
-      height: 290px;
+      height: 100%;
       display: flex;
       justify-content: space-between;
       background: #000000 0% 0% no-repeat padding-box;
@@ -259,20 +260,51 @@
       }
       @media (max-width: 600px) {
         font-size: 10px;
+        height: 100%;
       }
       .demo__account {
         width: 250px;
         margin-left: 100px;
+        @media (max-width: 600px) {
+          margin-left: 8px;
+          p {
+            font-size: 5px;
+            margin-top: -10px;
+          }
+          h5 {
+            font-size: 7px;
+          }
+        }
       }
       .deposit {
         width: 250px;
         margin-left: 100px;
         padding: 15px;
+        @media (max-width: 600px) {
+          margin-left: 8px;
+          p {
+            font-size: 5px;
+            margin-top: -10px;
+          }
+          h5 {
+            font-size: 7px;
+          }
+        }
       }
       .investment {
         margin-right: 100px;
         width: 250px;
         padding: 20px;
+        @media (max-width: 600px) {
+          margin-left: 0px;
+          p {
+            font-size: 5px;
+            margin-top: -10px;
+          }
+          h5 {
+            font-size: 7px;
+          }
+        }
       }
     }
   }
