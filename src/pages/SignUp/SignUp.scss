@@ -1,0 +1,64 @@
+.signup {
+  width: 100%;
+  overflow: hidden;
+
+  .signup__wrapper {
+    display: flex;
+    height: 650px;
+    .signup__facebook {
+      margin: auto;
+      height: 600px;
+      width: 40%;
+      @media (max-width: 600px) {
+        width: 70%;
+      }
+
+      .hr {
+        display: flex;
+        p {
+          margin: -5px;
+          margin-left: -90px;
+          margin-right: -90px;
+          text-align: center;
+          font: normal normal normal 15px/28px Poppins;
+          letter-spacing: 0px;
+          color: #d2dff3;
+          opacity: 1;
+          @media (max-width: 1024px) {
+            font-size: 14px;
+            margin-left: -10px;
+            margin-right: -10px;
+          }
+          @media (max-width: 800px) {
+            font-size: 14px;
+            margin-left: 0px;
+            margin-right: 0px;
+          }
+          @media (max-width: 600px) {
+            font-size: 8px;
+            margin-left: 0px;
+            margin-right: 0px;
+          }
+        }
+        @media (max-width: 800px) {
+          margin: auto;
+        }
+        @media (max-width: 600px) {
+          margin: auto;
+        }
+      }
+    }
+    .carousel__signup {
+      margin: auto;
+      width: 40%;
+    }
+    @media (max-width: 800px) {
+      width: 700px;
+      flex-direction: column;
+    }
+    @media (max-width: 600px) {
+      width: 100%;
+      flex-direction: column;
+    }
+  }
+}

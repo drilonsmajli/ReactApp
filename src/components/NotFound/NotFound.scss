@@ -1,0 +1,62 @@
+.NotFound {
+  text-align: center;
+  width: 100%;
+  .img {
+    width: 100%;
+    overflow: hidden;
+    background-image: url("../../assets/404.png");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: 0% 25%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    @media (max-width: 1024px) {
+      background-position: 50% 25%;
+    }
+    @media (max-width: 800px) {
+      background-position: 50% 25%;
+    }
+    @media (max-width: 600px) {
+      background-position: 50% 25%;
+    }
+  }
+  .NotFound__wrapper {
+    width: 100%;
+    position: absolute;
+    margin-top: -500px;
+    @media (max-width: 1024px) {
+      margin-top: -30%;
+    }
+    @media (max-width: 800px) {
+      margin-top: -30%;
+    }
+    @media (max-width: 600px) {
+      margin-top: -40%;
+    }
+    button {
+      outline: none;
+      height: 50px;
+      text-align: center;
+      width: 170px;
+      border-radius: 40px;
+      background: rgb(194, 48, 48);
+      border: 3px solid rgb(57, 131, 156);
+      color: #ffffff;
+      letter-spacing: 1px;
+      text-shadow: 0;
+      font: {
+        size: 12px;
+      }
+      cursor: pointer;
+      transition: all 0.25s ease;
+      &:hover {
+        color: #ffffff;
+        background: rgb(3, 8, 10);
+      }
+      &:active {
+        letter-spacing: 2px;
+      }
+    }
+  }
+}

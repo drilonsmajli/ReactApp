@@ -1,287 +1,2492 @@
 {
-  "english": {
-    "english": "English",
-    "buttons": {
-      "Login": "Log in",
-      "Signup": "Sign Up"
-    },
-    "navbar": [
-      {
-        "Home": "Home",
-        "StartupIncubator": "Startup Incubator",
-        "Partnerships": "Partnerships",
-        "Contact": "Contact",
-        "Services": "Services"
+  "Landing": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "navcontent": {
+        "title": "Instant access to investing, anytime and anywhere",
+        "paragraph": "We help you grow with smart money for 12 months",
+        "textbutton1": "Get Started for Free",
+        "textbutton2": "View our Partnerships",
+        "accounts": {
+          "demoaccounts": "$10 000 demo accounts",
+          "demoaccountsContent": "Test your investing stratrgy with free demo account",
+          "deposit": "$10 minimum deposit",
+          "depositcontent": "No fees when you make a deposit or withdraw funds",
+          "investment": "$1 minimum investment",
+          "investmentContent": "It's easy to get started with small amounts of money"
+        }
+      },
+      "invest": {
+        "title": "Invest in the world's most popular assets",
+        "content": "From established industries to booming new age up-and- comers-- pick from over a dozen of different routes to a smart investment"
+      },
+      "features": {
+        "title": "Powerful and easy-to-use features",
+        "content": "Sometimes investing can be complicated and confusing. IQ Option breaks down the complexities of investing with intuitive tools that add"
+      },
+      "buildinvesting": {
+        "title": "Build your investing foundation",
+        "content": "We all have to start somewhere. Let us help get you on the right track as you start your investing journey. With our video tutorials section you'll be"
+      },
+      "marketing": {
+        "title": "What our client say",
+        "content": "Trusted by over 46,000 investors around the world"
+      },
+      "getstarted": {
+        "title": "It's easy to get started",
+        "post1_title": "Sign up",
+        "post1_content": "Create an account for free using your email address",
+        "post2_title": "Explore the platform",
+        "post2_content": "See what it's like to invest without putting your money at risk",
+        "post3_title": "Invest & earn profit",
+        "post3_content": "Select an asset and make your money work for you"
+      },
+      "vision": {
+        "title": "Our Vision",
+        "content": " We envision a world in which science and technology innovators have the support, training, and access to networks and resources they need to solve the world's most difficult",
+        "post1_title": "Early-Stage innovators",
+        "post1_content": "We work directly with a varienty of early-stage innovators to help them bring their ideas to market through workshops and training,coaching and mentoring,funding and awards.",
+        "post1_info": "Learn more",
+        "post2_title": "Faculty Initiatives",
+        "post2_content": "We support faculty in developing programs that cultivate student innovators and promote institutional change throught grants, workshops, training, and conferences.",
+        "post2_info": "Learn more",
+        "post3_title": "I&E Networks",
+        "post3_content": "We created and build networks to strengthen the innovation and entrepreneurship ecosystem, both nationally and within individual organizators and schools.",
+        "post3_info": "Learn more"
+      },
+      "sponsor": "Founders & Partners",
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
       }
-    ],
-    "navcontent": {
-      "title": "Instant access to investing, anytime and anywhere",
-      "paragraph": "We help you grow with smart money for 12 months",
-      "textbutton1": "Get Started for Free",
-      "textbutton2": "View our Partnerships",
-      "accounts": {
-        "demoaccounts": "$10 000 demo accounts",
-        "demoaccountsContent": "Test your investing stratrgy with free demo account",
-        "deposit": "$10 minimum deposit",
-        "depositcontent": "No fees when you make a deposit or withdraw funds",
-        "investment": "$1 minimum investment",
-        "investmentContent": "It's easy to get started with small amounts of money"
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "navcontent": {
+        "title": "Investim i menjehershem kurdo dhe kudo",
+        "paragraph": "Ne ju ndihmojme qe te zhvilloheni me para te gatshme per 12 muaj",
+        "textbutton1": "Provoni falas",
+        "textbutton2": "Partneret tane",
+        "accounts": {
+          "demoaccounts": "$10 000 llogari demo",
+          "demoaccountsContent": "Testo strategjin tende te investimit per demo llogarive",
+          "deposit": "$10 depositi minimal",
+          "depositcontent": "Pa tarife ne deposit dhe terheqje fondesh",
+          "investment": "$1 ivestimi minimal",
+          "investmentContent": "Eshte leht te fillosh me shuma te vogla parash"
+        }
+      },
+      "invest": {
+        "title": "Investoni në pasuritë më të njohura në botë",
+        "content": "Nga industritë e krijuara deri tek rritjet e ardhshme të epokave të reja - zgjidhni nga më shumë se një duzinë rrugësh të ndryshme drejt një investimi inteligjent"
+      },
+      "features": {
+        "title": "Karakteristika të fuqishme dhe të lehtë për t’u përdorur",
+        "content": "Ndonjëherë investimi mund të jetë i komplikuar dhe konfuz. IQ Option prish kompleksitetin e investimit me mjete intuitive që shtojnë"
+      },
+      "buildinvesting": {
+        "title": "Ndërtoni fondacionin tuaj për investime",
+        "content": "Të gjithë duhet të fillojmë diku. Le të ju ndihmojmë t'ju çojmë në rrugën e duhur ndërsa filloni udhëtimin tuaj për investime. Me seksionin e mësimeve video ju do të jeni"
+      },
+      "marketing": {
+        "title": "Cfarë thonë klientet tanë",
+        "content": "Besuar nga mbi 46,000 investitorë në të gjithë botën"
+      },
+      "getstarted": {
+        "title": "Eshtë e thjeshtë për të filluar",
+        "post1_title": "Regjistrohu",
+        "post1_content": "Krijoni një llogari falas duke përdorur adresën tuaj të postës elektronike",
+        "post2_title": "Eksploroni platformën",
+        "post2_content": "Shikoni se si është të investoni pa i rrezikuar paratë tuaja",
+        "post3_title": "Investoni dhe fitoni fitim",
+        "post3_content": "Zgjidhni një pasuri dhe bëni paratë tuaja të funksionojnë për ju"
+      },
+      "vision": {
+        "title": "Visioni Yne",
+        "content": "Ne parashikojmë një botë në të cilën novatorët e shkencës dhe teknologjisë kanë mbështetjen, trajnimin dhe aksesin në rrjete dhe burime të nevojshme për të zgjidhur më të vështirat në botë",
+        "post1_title": "Inovatorët e hershëm",
+        "post1_content": "Ne punojmë drejtpërdrejt me një shumëllojshmëri të novatorëve të fazës së hershme për t'i ndihmuar ata të sjellin idetë e tyre në treg përmes punëtorive dhe trajnimeve, stërvitjes dhe mentorimit, fondeve dhe çmimeve.",
+        "post1_info": "Learn more",
+        "post2_title": "Nismat e Fakultetit",
+        "post2_content": "Ne mbështesim fakultetin në zhvillimin e programeve që kultivojnë novatorë studentorë dhe nxisin ndryshime institucionale përmes granteve, punëtorive, trajnimeve dhe konferencave.",
+        "post2_info": "Learn more",
+        "post3_title": "Rrjetet I&E",
+        "post3_content": "Ne krijuam dhe ndërtuam rrjete për të forcuar ekosistemin e inovacionit dhe sipërmarrjes, si në rang kombëtar ashtu edhe brenda organizatorëve individual dhe shkollave.",
+        "post3_info": "Learn more"
+      },
+      "sponsor": "Themeluesit & Partnerët",
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
       }
     },
-    "invest": {
-      "title": "Invest in the world's most popular assets",
-      "content": "From established industries to booming new age up-and- comers-- pick from over a dozen of different routes to a smart investment"
-    },
-    "features": {
-      "title": "Powerful and easy-to-use features",
-      "content": "Sometimes investing can be complicated and confusing. IQ Option breaks down the complexities of investing with intuitive tools that add"
-    },
-    "buildinvesting": {
-      "title": "Build your investing foundation",
-      "content": "We all have to start somewhere. Let us help get you on the right track as you start your investing journey. With our video tutorials section you'll be"
-    },
-    "marketing": {
-      "title": "What our client say",
-      "content": "Trusted by over 46,000 investors around the world"
-    },
-    "getstarted": {
-      "title": "It's easy to get started",
-      "post1_title": "Sign up",
-      "post1_content": "Create an account for free using your email address",
-      "post2_title": "Explore the platform",
-      "post2_content": "See what it's like to invest without putting your money at risk",
-      "post3_title": "Invest & earn profit",
-      "post3_content": "Select an asset and make your money work for you"
-    },
-    "vision": {
-      "title": "Our Vision",
-      "content": " We envision a world in which science and technology innovators have the support, training, and access to networks and resources they need to solve the world's most difficult",
-      "post1_title": "Early-Stage innovators",
-      "post1_content": "We work directly with a varienty of early-stage innovators to help them bring their ideas to market through workshops and training,coaching and mentoring,funding and awards.",
-      "post1_info": "Learn more",
-      "post2_title": "Faculty Initiatives",
-      "post2_content": "We support faculty in developing programs that cultivate student innovators and promote institutional change throught grants, workshops, training, and conferences.",
-      "post2_info": "Learn more",
-      "post3_title": "I&E Networks",
-      "post3_content": "We created and build networks to strengthen the innovation and entrepreneurship ecosystem, both nationally and within individual organizators and schools.",
-      "post3_info": "Learn more"
-    },
-    "sponsor": "Founders & Partners",
-    "footer": {
-      "subscribe": "Subscribe to our Newsletter!",
-      "about": {
-        "about": "About",
-        "team": "Team",
-        "approach": "Approach",
-        "news": "News & Press",
-        "aboutus": "About us"
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
       },
-      "legal": {
-        "legal": "Legal",
-        "terms": "Terms of use",
-        "privacy": "Privacy Policy",
-        "copyrightinfo": "Copyright info",
-        "disclaimers": "Disclaimers"
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+      "navcontent": {
+        "title": "Sofortiger Zugang zu Investitionen, jederzeit und überall",
+        "paragraph": "Wir helfen Ihnen, 12 Monate lang mit intelligentem Geld zu wachsen",
+        "textbutton1": "Kostenlos loslegen",
+        "textbutton2": "Sehen Sie sich unsere Partnerschaften an",
+        "accounts": {
+          "demoaccounts": "Demo-Konten im Wert von $10 000",
+          "demoaccountsContent": "Testen Sie Ihre Anlagestrategie mit einem kostenlosen Demo-Konto",
+          "deposit": "$10 Mindesteinzahlung",
+          "depositcontent": "Keine Gebühren, wenn Sie eine Einzahlung vornehmen oder Geld abheben",
+          "investment": "$1 Mindestinvestition",
+          "investmentContent": "Es ist einfach, mit kleinen Geldbeträgen zu beginnen"
+        }
       },
-      "support": {
-        "support": "Support",
-        "faq": "FAQ",
-        "features": "Features",
-        "contact": "Contact us",
-        "guides": "Guides",
-        "documentation": "Documentation"
+      "invest": {
+        "title": "Investieren Sie in die weltweit beliebtesten Vermögenswerte",
+        "content": "Von etablierten Branchen bis hin zu boomenden New-Age-Nachwuchskräften - wählen Sie aus über einem Dutzend verschiedener Wege zu einer intelligenten Investition"
       },
-      "download": "Download KreditKos App"
+      "features": {
+        "title": "Leistungsstarke und benutzerfreundliche Funktionen",
+        "content": "Manchmal kann das Investieren kompliziert und verwirrend sein. IQ Option reduziert die Komplexität des Investierens mit intuitiven Tools"
+      },
+      "buildinvesting": {
+        "title": "Bauen Sie Ihre Investitionsgrundlage auf",
+        "content": "Wir müssen alle irgendwo anfangen. Lassen Sie sich von uns auf den richtigen Weg bringen, wenn Sie Ihre Investitionsreise antreten. Mit unserem Video-Tutorial-Bereich werden Sie"
+      },
+      "marketing": {
+        "title": "Was unser Kunde sagt",
+        "content": "Vertrauen von über 46.000 Investoren auf der ganzen Welt"
+      },
+      "getstarted": {
+        "title": "Es ist einfach, loszulegen",
+        "post1_title": "Anmelden",
+        "post1_content": "Erstellen Sie kostenlos ein Konto mit Ihrer E-Mail-Adresse",
+        "post2_title": "Entdecken Sie die Plattform",
+        "post2_content": "Sehen Sie, wie es ist, zu investieren, ohne Ihr Geld zu gefährden",
+        "post3_title": "Investieren & Gewinn machen",
+        "post3_content": "Wählen Sie einen Vermögenswert aus und lassen Sie Ihr Geld für Sie arbeiten"
+      },
+      "vision": {
+        "title": "Unsere Vision",
+        "content": "Wir stellen uns eine Welt vor, in der Innovatoren aus Wissenschaft und Technologie die Unterstützung, Schulung und den Zugang zu Netzwerken und Ressourcen haben, die sie benötigen, um die schwierigsten Probleme der Welt zu lösen",
+        "post1_title": "Innovatoren im Frühstadium",
+        "post1_content": "Wir arbeiten direkt mit einer Vielzahl von Innovatoren im Frühstadium zusammen, um ihnen zu helfen, ihre Ideen durch Workshops und Schulungen, Coaching und Mentoring, Finanzierung und Auszeichnungen auf den Markt zu bringen.",
+        "post1_info": "Mehr erfahren",
+        "post2_title": "Faculty Initiatives",
+        "post2_content": "Wir unterstützen die Fakultät bei der Entwicklung von Programmen, die studentische Innovatoren fördern und den institutionellen Wandel durch Zuschüsse, Workshops, Schulungen und Konferenzen fördern.",
+        "post2_info": "Mehr erfahren",
+        "post3_title": "I&E Networks",
+        "post3_content": "Wir haben Netzwerke geschaffen und aufgebaut, um das Ökosystem für Innovation und Unternehmertum sowohl auf nationaler Ebene als auch innerhalb einzelner Organisatoren und Schulen zu stärken.",
+        "post3_info": "Mehr erfahren"
+      },
+      "sponsor": "Gründer & Partner",
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
     }
   },
-  "shqip": {
-    "shqip": "Shqip",
-    "buttons": {
-      "Login": "Kyqu",
-      "Signup": "Regjistrohu"
-    },
-    "navbar": [
-      {
-        "Home": "Kryefaqja",
-        "StartupIncubator": "Startup Incubator",
-        "Partnerships": "Partneret",
-        "Contact": "Kontakti",
-        "Services": "Sherbimet"
+  "StartupIncubator": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "incubation": {
+        "title": "Incubation",
+        "content": "Our incubation is first and foremost just the start of a unique and longlasting partnership and cooperation. It lasts one year, four milestones and at the end we are looking with you for another investor. Our project manager and mentors as well as your team will have clear, detailed and transparent goals and KPI’s, all set up in cooperation with you and the investor we bring into the picture. You will know what you are getting from us well in advance."
+      },
+      "howWorks": {
+        "title": "So how does it work?",
+        "content": "We don’t offer one sided non applied lectures or generic advice, we always reflect your stage of maturity and your specific goals, be it to conquer another market with your already advanced product or be it to get your proof of concept into MVP and to the first pilot or customers. Below please see an example for one of the possible maturity situations."
+      },
+      "processincubation": {
+        "post1": {
+          "title": "Initiation",
+          "content": "Together we establish the right form of cooperation (remote vs. on-site, touch points, systems etc.) and start planning the timeline in detail, the organisation, the team and the expectations."
+        },
+        "post2": {
+          "title": "Concentration",
+          "content": "The focus is on the product development and testing, customers acquisition or pilot preparation (tailor made for you and your stages of maturity)."
+        },
+        "post3": {
+          "title": "Piloting",
+          "content": "Implementing MVP in the first customers, testing in real production environment. Marketing preparations and Sales plan in action."
+        },
+        "post4": {
+          "title": "Launching",
+          "content": "Sales and Marketing in full speed, acquiring new customers and contacts, first revenues. Preparations for new investment round."
+        }
+      },
+      "incubationService": {
+        "title": "So how does it work?",
+        "p1": "Examples of Startup Incubation Services:",
+        "p2": "▪ Securing the financial investment for the project",
+        "p3": "▪ Support from our KreditKos team of experts",
+        "p4": "▪ Access to chosen mentors, partners and connected benefits",
+        "p5": "▪ Clear and transparent help and support with plan delivery",
+        "p6": "▪ Standardization of the delivery process and documentation",
+        "p7": "▪ Investor management and reporting",
+        "p8": "▪ Steering meetings preparations",
+        "p9": "▪ Management of change",
+        "p10": "▪ Risk management",
+        "p11": "▪ Workplace",
+        "p12": "▪ Legal, accounting and other support",
+        "p13": "▪ Next funding or exit preparation"
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Do You like what they say about us?",
+          "content": "Well then don’t hesitate to Contact us and discover how we can help you succeed and Make your dreams come true",
+          "button": "Apply now"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
       }
-    ],
-    "navcontent": {
-      "title": "Investim i menjehershem kurdo dhe kudo",
-      "paragraph": "Ne ju ndihmojme qe te zhvilloheni me para te gatshme per 12 muaj",
-      "textbutton1": "Provoni falas",
-      "textbutton2": "Partneret tane",
-      "accounts": {
-        "demoaccounts": "$10 000 llogari demo",
-        "demoaccountsContent": "Testo strategjin tende te investimit per demo llogarive",
-        "deposit": "$10 depositi minimal",
-        "depositcontent": "Pa tarife ne deposit dhe terheqje fondesh",
-        "investment": "$1 ivestimi minimal",
-        "investmentContent": "Eshte leht te fillosh me shuma te vogla parash"
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "incubation": {
+        "title": "Inkubacioni",
+        "content": "Inkubacioni ynë është para së gjithash vetëm fillimi i një partneriteti dhe bashkëpunimi unik dhe të gjatë. Zgjat një vit, katër momente historike dhe në fund ne po kërkojmë me ju për një investitor tjetër. Menaxheri dhe mentorët tanë të projektit si dhe ekipi juaj do të kenë qëllime të qarta, të hollësishme dhe transparente dhe KPI-të, të gjitha të vendosura në bashkëpunim me ju dhe investitorin që ne sjellim në fotografi. Ju do të dini se çfarë po merrni nga ne shumë më përpara."
+      },
+      "howWorks": {
+        "title": "Atëherë si funksionon?",
+        "content": "Ne nuk ofrojmë leksione të njëanshme jo të aplikuara ose këshilla gjenerike, ne gjithmonë pasqyrojmë fazën tuaj të pjekurisë dhe qëllimet tuaja specifike, qofshin ato për të pushtuar një treg tjetër me produktin tuaj tashmë të përparuar ose për të marrë provën tuaj të konceptit në MVP dhe piloti i parë ose klientët. Më poshtë ju lutemi shikoni një shembull për një nga situatat e mundshme të pjekurisë."
+      },
+      "processincubation": {
+        "post1": {
+          "title": "Fillimi",
+          "content": "Së bashku ne krijojmë formën e duhur të bashkëpunimit (në distancë, në vend, pika prekëse, sisteme etj.) Dhe fillojmë të planifikojmë në detaje kronologjinë, organizatën, ekipin dhe pritjet."
+        },
+        "post2": {
+          "title": "Përqendrimi",
+          "content": "Fokusi është në zhvillimin dhe testimin e produktit, blerjen e klientëve ose përgatitjen pilot (bërë për ju dhe fazat tuaja të pjekurisë)."
+        },
+        "post3": {
+          "title": "Pilotimi",
+          "content": "Zbatimi i MVP në klientët e parë, testimi në mjedisin real të prodhimit. Përgatitjet e marketingut dhe plani i shitjeve në veprim."
+        },
+        "post4": {
+          "title": "Nisjen",
+          "content": "Shitjet dhe Marketingu me shpejtësi të plotë, blerja e klientëve dhe kontakteve të reja, të ardhurat e para. Përgatitjet për raundin e ri të investimeve."
+        }
+      },
+      "incubationService": {
+        "title": "Atëherë si funksionon?",
+        "p1": "Shembuj të Shërbimeve të Inkubacionit të Fillimit:",
+        "p2": "▪ Sigurimi i investimit financiar për projektin",
+        "p3": "▪ Mbështetje nga ekipi ynë i ekspertëve të KreditKos",
+        "p4": "▪ Aksesi tek mentorët e zgjedhur, partnerët dhe përfitimet e lidhura",
+        "p5": "▪ Ndihmë dhe mbështetje e qartë dhe transparente me shpërndarjen e planit",
+        "p6": "▪ Standardizimi i procesit të dorëzimit dhe dokumentacionit",
+        "p7": "Management Menaxhimi dhe raportimi i investitorëve",
+        "p8": "Preparations Përgatitjet e takimeve drejtuese",
+        "p9": "▪ Menaxhimi i ndryshimit",
+        "p10": "▪ Management Menaxhimi i rrezikut",
+        "p11": "▪ Workplace",
+        "p12": "▪ Mbështetje juridike, kontabël dhe tjetër",
+        "p13": "▪ Financimi tjetër ose përgatitja e daljes"
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "A ju pëlqen ajo që thonë për ne?",
+          "content": "Epo atëherë mos hezitoni të na kontaktoni dhe të zbuloni se si mund t'ju ndihmojmë të keni sukses dhe t'i bëni ëndrrat tuaja të vërteta",
+          "button": "Apliko tani"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
       }
     },
-    "invest": {
-      "title": "Investoni në pasuritë më të njohura në botë",
-      "content": "Nga industritë e krijuara deri tek rritjet e ardhshme të epokave të reja - zgjidhni nga më shumë se një duzinë rrugësh të ndryshme drejt një investimi inteligjent"
-    },
-    "features": {
-      "title": "Karakteristika të fuqishme dhe të lehtë për t’u përdorur",
-      "content": "Ndonjëherë investimi mund të jetë i komplikuar dhe konfuz. IQ Option prish kompleksitetin e investimit me mjete intuitive që shtojnë"
-    },
-    "buildinvesting": {
-      "title": "Ndërtoni fondacionin tuaj për investime",
-      "content": "Të gjithë duhet të fillojmë diku. Le të ju ndihmojmë t'ju çojmë në rrugën e duhur ndërsa filloni udhëtimin tuaj për investime. Me seksionin e mësimeve video ju do të jeni"
-    },
-    "marketing": {
-      "title": "Cfarë thonë klientet tanë",
-      "content": "Besuar nga mbi 46,000 investitorë në të gjithë botën"
-    },
-    "getstarted": {
-      "title": "Eshtë e thjeshtë për të filluar",
-      "post1_title": "Regjistrohu",
-      "post1_content": "Krijoni një llogari falas duke përdorur adresën tuaj të postës elektronike",
-      "post2_title": "Eksploroni platformën",
-      "post2_content": "Shikoni se si është të investoni pa i rrezikuar paratë tuaja",
-      "post3_title": "Investoni dhe fitoni fitim",
-      "post3_content": "Zgjidhni një pasuri dhe bëni paratë tuaja të funksionojnë për ju"
-    },
-    "vision": {
-      "title": "Visioni Yne",
-      "content": "Ne parashikojmë një botë në të cilën novatorët e shkencës dhe teknologjisë kanë mbështetjen, trajnimin dhe aksesin në rrjete dhe burime të nevojshme për të zgjidhur më të vështirat në botë",
-      "post1_title": "Inovatorët e hershëm",
-      "post1_content": "Ne punojmë drejtpërdrejt me një shumëllojshmëri të novatorëve të fazës së hershme për t'i ndihmuar ata të sjellin idetë e tyre në treg përmes punëtorive dhe trajnimeve, stërvitjes dhe mentorimit, fondeve dhe çmimeve.",
-      "post1_info": "Learn more",
-      "post2_title": "Nismat e Fakultetit",
-      "post2_content": "Ne mbështesim fakultetin në zhvillimin e programeve që kultivojnë novatorë studentorë dhe nxisin ndryshime institucionale përmes granteve, punëtorive, trajnimeve dhe konferencave.",
-      "post2_info": "Learn more",
-      "post3_title": "Rrjetet I&E",
-      "post3_content": "Ne krijuam dhe ndërtuam rrjete për të forcuar ekosistemin e inovacionit dhe sipërmarrjes, si në rang kombëtar ashtu edhe brenda organizatorëve individual dhe shkollave.",
-      "post3_info": "Learn more"
-    },
-    "sponsor": "Themeluesit & Partnerët",
-    "footer": {
-      "subscribe": "Subscribe to our Newsletter!",
-      "about": {
-        "about": "Rreth",
-        "team": "Skuadra",
-        "approach": "Qasja",
-        "news": "Lajme & Shtyp",
-        "aboutus": "Rreth nesh"
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
       },
-      "legal": {
-        "legal": "Juridike",
-        "terms": "Terms of use",
-        "privacy": "Privacy Policy",
-        "copyrightinfo": "Informacione për të drejtat e autorit",
-        "disclaimers": "Refuzimet"
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+      "incubation": {
+        "title": "Inkubation",
+        "content": "Unsere Inkubation ist in erster Linie nur der Beginn einer einzigartigen und langjährigen Partnerschaft und Zusammenarbeit. Es dauert ein Jahr, vier Meilensteine ​​und am Ende suchen wir mit Ihnen einen anderen Investor. Unser Projektmanager und unsere Mentoren sowie Ihr Team haben klare, detaillierte und transparente Ziele und KPIs, die alle in Zusammenarbeit mit Ihnen und dem Investor, den wir ins Bild bringen, festgelegt wurden. Sie werden frühzeitig wissen, was Sie von uns bekommen."
       },
-      "support": {
-        "support": "Mbështetje",
-        "faq": "FAQ",
-        "features": "Tiparet",
-        "contact": "Na kontaktoni",
-        "guides": "Udhëzuesit",
-        "documentation": "Documentation"
+      "howWorks": {
+        "title": "Wie funktioniert es?",
+        "content": "Wir bieten keine einseitigen, nicht angewandten Vorträge oder allgemeinen Ratschläge an. Wir spiegeln immer Ihren Reifegrad und Ihre spezifischen Ziele wider, sei es, um mit Ihrem bereits fortschrittlichen Produkt einen anderen Markt zu erobern oder um Ihren Proof of Concept in MVP zu bringen und um der erste Pilot oder Kunden. Nachfolgend finden Sie ein Beispiel für eine der möglichen Fälligkeitssituationen."
       },
-      "download": "Shkarkoni Aplikacionin KreditKos"
+      "processincubation": {
+        "post1": {
+          "title": "Einleitung",
+          "content": "Gemeinsam etablieren wir die richtige Form der Zusammenarbeit (Remote vs. Vor-Ort, Berührungspunkte, Systeme usw.) und beginnen mit der detaillierten Planung des Zeitplans, der Organisation, des Teams und der Erwartungen."
+        },
+        "post2": {
+          "title": "Konzentration",
+          "content": "Der Fokus liegt auf der Produktentwicklung und dem Testen, der Kundenakquise oder der Pilotvorbereitung (maßgeschneidert für Sie und Ihre Reifegrade)."
+        },
+        "post3": {
+          "title": "Pilotierung",
+          "content": "Implementierung von MVP bei den ersten Kunden, Testen in einer realen Produktionsumgebung. Marketingvorbereitungen und Verkaufsplan in Aktion."
+        },
+        "post4": {
+          "title": "Starten",
+          "content": "Vertrieb und Marketing in vollem Gange, neue Kunden und Kontakte gewinnen, erste Einnahmen. Vorbereitungen für eine neue Investitionsrunde."
+        }
+      },
+      "incubationService": {
+        "title": "Wie funktioniert es?",
+        "p1": "Beispiele für Startup Incubation Services:",
+        "p2": "▪ Sicherung der finanziellen Investition für das Projekt",
+        "p3": "▪ Unterstützung durch unser KreditKos-Expertenteam",
+        "p4": "▪ Zugang zu ausgewählten Mentoren, Partnern und damit verbundenen Vorteilen",
+        "p5": "▪ Klare und transparente Hilfe und Unterstützung bei der Planauslieferung",
+        "p6": "▪ Standardisierung des Lieferprozesses und der Dokumentation",
+        "p7": "▪ Anlegerverwaltung und Berichterstattung",
+        "p8": "▪ Vorbereitung der Lenkungstreffen",
+        "p9": "▪ Management von Veränderungen",
+        "p10": "▪ Risikomanagement",
+        "p11": "▪ Workplace",
+        "p12": "▪ Rechts-, Buchhaltungs- und sonstige Unterstützung",
+        "p13": "▪ Nächste Finanzierung oder Vorbereitung des Ausstiegs"
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Gefällt dir, was sie über uns sagen?",
+          "content": "Dann zögern Sie nicht, uns zu kontaktieren und herauszufinden, wie wir Ihnen zum Erfolg verhelfen und Ihre Träume wahr werden lassen können",
+          "button": "Jetzt bewerben"
+        }
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
     }
   },
-  "german": {
-    "german": "German",
-    "buttons": {
-      "Login": "Anmeldung",
-      "Signup": "Anmelden"
-    },
-    "navbar": [
-      {
-        "Home": "Zuhause",
-        "StartupIncubator": "Startup Incubator",
-        "Partnerships": "Partnerschaften",
-        "Contact": "Kontakt",
-        "Services": "Dienstleistungen"
+  "LogInSingUp": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "form": {
+        "fromFacebook": {
+          "title": "Welcome to KreditKos",
+          "content": "Register your account!",
+          "facebookButton": "Sign up with facebook"
+        },
+        "hr": "Or signup with email",
+        "carousel": "An investment in knowledge pays the best interest",
+        "fromEmail": {
+          "username": "Username",
+          "email": "Email",
+          "password": "Password",
+          "forgotPassword": "Forgot password ?",
+          "emailButton": {
+            "login": "Sing In",
+            "signup": "Sign Up"
+          }
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
       }
-    ],
-    "navcontent": {
-      "title": "Sofortiger Zugang zu Investitionen, jederzeit und überall",
-      "paragraph": "Wir helfen Ihnen, 12 Monate lang mit intelligentem Geld zu wachsen",
-      "textbutton1": "Kostenlos loslegen",
-      "textbutton2": "Sehen Sie sich unsere Partnerschaften an",
-      "accounts": {
-        "demoaccounts": "Demo-Konten im Wert von $10 000",
-        "demoaccountsContent": "Testen Sie Ihre Anlagestrategie mit einem kostenlosen Demo-Konto",
-        "deposit": "$10 Mindesteinzahlung",
-        "depositcontent": "Keine Gebühren, wenn Sie eine Einzahlung vornehmen oder Geld abheben",
-        "investment": "$1 Mindestinvestition",
-        "investmentContent": "Es ist einfach, mit kleinen Geldbeträgen zu beginnen"
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "form": {
+        "fromFacebook": {
+          "title": "Mirësevini në KreditKos",
+          "content": "Regjistro llogarinë tënde!",
+          "facebookButton": "Regjistrohuni nga facebook"
+        },
+        "hr": "Ose regjistrohuni me email",
+        "carousel": "Një investim në njohuri paguan interesin më të mirë",
+        "fromEmail": {
+          "username": "Emri i përdoruesit",
+          "email": "Email",
+          "password": "Fjalëkalimi",
+          "forgotPassword": "Forgot password ?",
+          "emailButton": {
+            "login": "Hyni",
+            "signup": "Regjistrohuni"
+          }
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
       }
     },
-    "invest": {
-      "title": "Investieren Sie in die weltweit beliebtesten Vermögenswerte",
-      "content": "Von etablierten Branchen bis hin zu boomenden New-Age-Nachwuchskräften - wählen Sie aus über einem Dutzend verschiedener Wege zu einer intelligenten Investition"
-    },
-    "features": {
-      "title": "Leistungsstarke und benutzerfreundliche Funktionen",
-      "content": "Manchmal kann das Investieren kompliziert und verwirrend sein. IQ Option reduziert die Komplexität des Investierens mit intuitiven Tools"
-    },
-    "buildinvesting": {
-      "title": "Bauen Sie Ihre Investitionsgrundlage auf",
-      "content": "Wir müssen alle irgendwo anfangen. Lassen Sie sich von uns auf den richtigen Weg bringen, wenn Sie Ihre Investitionsreise antreten. Mit unserem Video-Tutorial-Bereich werden Sie"
-    },
-    "marketing": {
-      "title": "Was unser Kunde sagt",
-      "content": "Vertrauen von über 46.000 Investoren auf der ganzen Welt"
-    },
-    "getstarted": {
-      "title": "Es ist einfach, loszulegen",
-      "post1_title": "Anmelden",
-      "post1_content": "Erstellen Sie kostenlos ein Konto mit Ihrer E-Mail-Adresse",
-      "post2_title": "Entdecken Sie die Plattform",
-      "post2_content": "Sehen Sie, wie es ist, zu investieren, ohne Ihr Geld zu gefährden",
-      "post3_title": "Investieren & Gewinn machen",
-      "post3_content": "Wählen Sie einen Vermögenswert aus und lassen Sie Ihr Geld für Sie arbeiten"
-    },
-    "vision": {
-      "title": "Unsere Vision",
-      "content": "Wir stellen uns eine Welt vor, in der Innovatoren aus Wissenschaft und Technologie die Unterstützung, Schulung und den Zugang zu Netzwerken und Ressourcen haben, die sie benötigen, um die schwierigsten Probleme der Welt zu lösen",
-      "post1_title": "Innovatoren im Frühstadium",
-      "post1_content": "Wir arbeiten direkt mit einer Vielzahl von Innovatoren im Frühstadium zusammen, um ihnen zu helfen, ihre Ideen durch Workshops und Schulungen, Coaching und Mentoring, Finanzierung und Auszeichnungen auf den Markt zu bringen.",
-      "post1_info": "Mehr erfahren",
-      "post2_title": "Faculty Initiatives",
-      "post2_content": "Wir unterstützen die Fakultät bei der Entwicklung von Programmen, die studentische Innovatoren fördern und den institutionellen Wandel durch Zuschüsse, Workshops, Schulungen und Konferenzen fördern.",
-      "post2_info": "Mehr erfahren",
-      "post3_title": "I&E Networks",
-      "post3_content": "Wir haben Netzwerke geschaffen und aufgebaut, um das Ökosystem für Innovation und Unternehmertum sowohl auf nationaler Ebene als auch innerhalb einzelner Organisatoren und Schulen zu stärken.",
-      "post3_info": "Mehr erfahren"
-    },
-    "sponsor": "Gründer & Partner",
-    "footer": {
-      "subscribe": "Abonnieren Sie unseren Newsletter!",
-      "about": {
-        "about": "Über",
-        "team": "Mannschaft",
-        "approach": "Ansatz",
-        "news": "Nachrichten & Presse",
-        "aboutus": "Über uns"
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
       },
-      "legal": {
-        "legal": "Legal",
-        "terms": "Nutzungsbedingungen",
-        "privacy": "Privacy Policy",
-        "copyrightinfo": "Copyright-Informationen",
-        "disclaimers": "Haftungsausschluss"
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+      "form": {
+        "fromFacebook": {
+          "title": "Willkommen bei KreditKos",
+          "content": "Registriere dein Konto!",
+          "facebookButton": "Melde dich über Facebook an"
+        },
+        "hr": "Oder melden Sie sich per E-Mail an",
+        "carousel": "Eine Investition in Wissen zahlt sich am besten aus",
+        "fromEmail": {
+          "username": "Nutzername",
+          "email": "Email",
+          "password": "Passwort",
+          "forgotPassword": "Forgot password ?",
+          "emailButton": {
+            "login": "Sing In",
+            "signup": "Anmelden"
+          }
+        }
       },
-      "support": {
-        "support": "Unterstützung",
-        "faq": "FAQ",
-        "features": "Features",
-        "contact": "Kontaktiere uns",
-        "guides": "Führer",
-        "documentation": "Documentation"
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "About": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
       },
-      "download": "Laden Sie die KreditKos App herunter"
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "image_text": {
+        "title": "About KreditKos",
+        "content": "We help you grow with smart money for 12 months",
+        "button1": "Open a new account",
+        "button2": "See how it works"
+      },
+      "mission": {
+        "title": "The KreditKos Mission",
+        "content": "KreditKos is the world’s largest services platform for entrepreneurs around the globe. We’re on a mission to empower our worldwide community of 20+ million customers — and entrepreneurs everywhere — by giving them all the help and tools they need to go online."
+      },
+      "values": {
+        "title": "Our Values",
+        "content": "We try to have the kind of a culture that doesn’t value excuses in the sense that when you’re supposed to accomplish something, and you’re at a high level, then your job is to accomplish it, in spite of difficulty. And you’re rewarded for dealing with that."
+      },
+      "whoarewe": {
+        "title": "Who we are",
+        "content": "KreditKos is the world’s largest services platform for entrepreneurs around the globe. We’re on a mission to empower our worldwide community of 19+ million customers — and entrepreneurs everywhere — by giving them all the help and tools they need to grow online."
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "image_text": {
+        "title": "Rreth KreditKos",
+        "content": "Ne ju ndihmojmë të rriteni me para të mençura për 12 muaj",
+        "button1": "Hapni një llogari të re",
+        "button2": "Shihni si funksionon"
+      },
+      "mission": {
+        "title": "Misioni KreditKos",
+        "content": "KreditKos është platforma më e madhe në botë e shërbimeve për sipërmarrësit në të gjithë globin. Ne jemi në një mision për të fuqizuar komunitetin tonë në mbarë botën me 20+ milion klientë - dhe sipërmarrës kudo - duke u dhënë atyre të gjithë ndihmën dhe mjetet që u duhen për të hyrë në internet."
+      },
+      "values": {
+        "title": "Vlerat tona",
+        "content": "Ne përpiqemi të kemi një lloj kulture që nuk vlerëson justifikimet në kuptimin që kur supozohet të arrish diçka, dhe je në një nivel të lartë, atëherë puna jote është ta realizosh, pavarësisht nga vështirësia. Dhe ju jeni shpërblyer për trajtimin e kësaj."
+      },
+      "whoarewe": {
+        "title": "Kush jemi",
+        "content": "KreditKos është platforma më e madhe e shërbimeve në botë për sipërmarrësit në të gjithë globin. Ne jemi në një mision për të fuqizuar komunitetin tonë në mbarë botën me 19+ milion klientë - dhe sipërmarrës kudo - duke u dhënë atyre të gjithë ndihmën dhe mjetet që u duhen për t'u rritur në internet."
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+      "image_text": {
+        "title": "Über KreditKos",
+        "content": "Wir helfen Ihnen, 12 Monate lang mit intelligentem Geld zu wachsen",
+        "button1": "Eröffnen Sie ein neues Konto",
+        "button2": "Sehen, wie es funktioniert"
+      },
+      "mission": {
+        "title": "Die KreditKos Mission",
+        "content": "KreditKos ist die weltweit größte Dienstleistungsplattform für Unternehmer weltweit. Wir haben es uns zur Aufgabe gemacht, unsere weltweite Community von mehr als 20 Millionen Kunden - und Unternehmern überall - zu stärken, indem wir ihnen alle Hilfe und Tools zur Verfügung stellen, die sie benötigen, um online zu gehen."
+      },
+      "values": {
+        "title": "Unsere Werte",
+        "content": "Wir versuchen, eine Kultur zu haben, die Ausreden in dem Sinne nicht wertschätzt, dass es Ihre Aufgabe ist, sie trotz Schwierigkeiten zu erreichen, wenn Sie etwas erreichen sollen und sich auf einem hohen Niveau befinden. Und Sie werden dafür belohnt."
+      },
+      "whoarewe": {
+        "title": "Wer wir sind",
+        "content": "KreditKos ist die weltweit größte Dienstleistungsplattform für Unternehmer weltweit. Wir haben die Mission, unsere weltweite Community von mehr als 19 Millionen Kunden - und Unternehmern überall - zu stärken, indem wir ihnen alle Hilfe und Tools geben, die sie benötigen, um online zu wachsen."
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "Partnerships": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "partner": {
+        "title": "Our Partners",
+        "content": "KreditKos incubation program also helps you build a bridge from startup to corporate that maintains the independence and freedom of the startup while offering corporate partners innovation and future opportunities. Our program is also indirectly linked to universities. This allows us to deliver better services, many talents and resources for both startups and corporates.",
+        "paragraph": "A collaborative partnership has the potential to bring long- term sustainability for the local and EU eco-system overall. We are happy to schedule a call with you if you are interested in a partnership or linkage",
+        "incubatorcarousel": {
+          "post1": {
+            "title": "I want to invest in startup, I need a team like that",
+            "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+            "author": "Evan.P"
+          },
+          "post2": {
+            "title": "Do You like what they say about us?",
+            "content": "Well then don’t hesitate to Contact us and discover how we can help you succeed and Make your dreams come true",
+            "button": "Apply now"
+          }
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "partner": {
+        "title": "Partnerët tanë",
+        "content": "Programi i inkubacionit KreditKos gjithashtu ju ndihmon të ndërtoni një urë nga fillimi në korporatë që ruan pavarësinë dhe lirinë e fillimit ndërsa u ofron partnerëve të korporatave inovacion dhe mundësi të ardhshme. Programi ynë është gjithashtu i lidhur indirekt me universitetet. Kjo na lejon të ofrojmë shërbime më të mira, shumë talente dhe burime si për fillestarët ashtu edhe për korporatat.",
+        "paragraph": "Një partneritet bashkëpunues ka potencialin për të sjellë qëndrueshmëri afatgjatë për ekosistemin lokal dhe atë të BE-së në përgjithësi. Ne jemi të lumtur të caktojmë një telefonatë me ju nëse jeni të interesuar për një partneritet ose lidhje",
+        "incubatorcarousel": {
+          "post1": {
+            "title": "I want to invest in startup, I need a team like that",
+            "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+            "author": "Evan.P"
+          },
+          "post2": {
+            "title": "A ju pëlqen ajo që thonë për ne?",
+            "content": "Epo atëherë mos hezitoni të na kontaktoni dhe të zbuloni se si mund t'ju ndihmojmë të keni sukses dhe t'i bëni ëndrrat tuaja të vërteta",
+            "button": "Apliko tani"
+          }
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+      "partner": {
+        "title": "Unsere Partner",
+        "content": "Das Inkubationsprogramm von KreditKos hilft Ihnen auch dabei, eine Brücke vom Startup zum Unternehmen zu schlagen, die die Unabhängigkeit und Freiheit des Startups bewahrt und gleichzeitig den Unternehmenspartnern Innovationen und zukünftige Möglichkeiten bietet. Unser Programm ist auch indirekt mit Universitäten verbunden. Dies ermöglicht es uns, sowohl Startups als auch Unternehmen bessere Dienstleistungen, viele Talente und Ressourcen zu bieten.",
+        "paragraph": "Eine kollaborative Partnerschaft hat das Potenzial, eine langfristige Nachhaltigkeit für das lokale und das EU-Ökosystem insgesamt zu erreichen. Gerne vereinbaren wir einen Anruf mit Ihnen, wenn Sie an einer Partnerschaft oder Verknüpfung interessiert sind",
+        "incubatorcarousel": {
+          "post1": {
+            "title": "I want to invest in startup, I need a team like that",
+            "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+            "author": "Evan.P"
+          },
+          "post2": {
+            "title": "Gefällt dir, was sie über uns sagen?",
+            "content": "Dann zögern Sie nicht, uns zu kontaktieren und herauszufinden, wie wir Ihnen zum Erfolg verhelfen und Ihre Träume wahr werden lassen können",
+            "button": "Jetzt bewerben"
+          }
+        }
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "Services": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "header": {
+        "title": "Customized Investment Management",
+        "content": "There is no investment portfolio that is perfect for everyone, but there is an investment portfolio that is very nearly perfect for each individual client.  As our clients’ lives unfold and as their goals and priorities evolve, we strive to the find that perfect portfolio for each client."
+      },
+      "rangeOfInvest": {
+        "title": "Range Of Investments Personalized To You",
+        "content": "We use an expansive range of instruments, such as individual stocks and bonds, exchange-traded funds (ETFs), mutual funds, partnership units and option contracts to construct portfolios across numerous asset classes, including U.S. and international equities across the market-capitalization spectrum, U.S. and international fixed income, real estate and precious metals."
+      },
+      "clientNeed": {
+        "title": "Deep Understanding Of Client Needs",
+        "content": "We manage investment portfolios for many different types of clients, including individuals and families, trusts, pension plans, corporations and non-profit organizations. We understand what works for different clients in different circumstances and at different times in their lives. Whatever your goals and whatever your risk tolerance, we constantly seek to strike that comfortable balance between risk and potential reward in your portfolio."
+      },
+      "investProcess": {
+        "title": "Transparent Investment Process",
+        "content": "Our ongoing portfolio management is 100% transparent to you, our client. Your assets are held in accounts at TD Ameritrade Institutional in your name only. You have 24/7 secure online access to your accounts at TD, where you can view balances, holdings and transactions."
+      },
+      "investToYourGoal": {
+        "title": "Investments Customized To Your Goals",
+        "content": "Portfolio management has been greatly homogenized and watered down in recent years across the financial services industry. Too many clients get cookie-cutter portfolios and little to no personalized advice. Not so at KreditKos, where we pride ourselves on delivering you innovative, low cost, highly tax-efficient portfolios that are customized to suit your needs and help you reach your goals."
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Do You like what they say about us?",
+          "content": "Well then don’t hesitate to Contact us and discover how we can help you succeed and Make your dreams come true",
+          "button": "Apply now"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "header": {
+        "title": "Menaxhimi i Investimeve të Përshtatura",
+        "content": "Nuk ka asnjë portofol investimesh që është i përsosur për të gjithë, por ekziston një portofol investimesh që është pothuajse perfekt për secilin klient individual. Ndërsa zhvillohet jeta e klientëve tanë dhe ndërsa evoluojnë qëllimet dhe përparësitë e tyre, ne përpiqemi të gjejmë atë portofol të përsosur për secilin klient."
+      },
+      "rangeOfInvest": {
+        "title": "Gama e investimeve të personalizuara për ju",
+        "content": "Ne përdorim një gamë të gjerë të instrumenteve, të tilla si aksione individuale dhe obligacione, fonde të tregtuara nga shkëmbimi (ETF), fonde të përbashkëta, njësi partneriteti dhe kontrata opsionesh për të ndërtuar portofola në klasa të shumta të aseteve, duke përfshirë aksione amerikane dhe ndërkombëtare në të gjithë spektrin e kapitalizimit të tregut , Të ardhura fikse të SHBA dhe ndërkombëtare, pasuri të paluajtshme dhe metale të çmuara."
+      },
+      "clientNeed": {
+        "title": "Kuptimi i thellë i nevojave të klientit",
+        "content": "Ne menaxhojmë portofolet e investimeve për shumë lloje të ndryshme të klientëve, duke përfshirë individë dhe familje, besime, plane pensioni, korporata dhe organizata jofitimprurëse. Ne e kuptojmë se çfarë funksionon për klientë të ndryshëm në rrethana të ndryshme dhe në kohë të ndryshme në jetën e tyre. Pavarësisht nga qëllimet tuaja dhe cilado qoftë toleranca juaj ndaj rrezikut, ne vazhdimisht kërkojmë të vendosim atë ekuilibër të rehatshëm midis rrezikut dhe shpërblimit të mundshëm në portofolin tuaj."
+      },
+      "investProcess": {
+        "title": "Procesi i investimeve transparente",
+        "content": "Our ongoing portfolio management is 100% transparent to you, our client. Your assets are held in accounts at TD Ameritrade Institutional in your name only. You have 24/7 secure online access to your accounts at TD, where you can view balances, holdings and transactions."
+      },
+      "investToYourGoal": {
+        "title": "Investimet e Përshtatura për Qëllimet tuaja",
+        "content": "Menaxhimi i portofolit është homogjenizuar dhe dobësuar shumë vitet e fundit në të gjithë industrinë e shërbimeve financiare. Shumë klientë marrin portofole prerëse cookie dhe pak ose aspak këshilla të personalizuara. Jo aq në KreditKos, ku ne krenohemi që ju ofrojmë portofole inovative, me kosto të ulët, me shumë efikasitet nga taksat, të cilat janë përshtatur për t'ju përshtatur nevojave tuaja dhe për t'ju ndihmuar të arrini qëllimet tuaja."
+      },
+
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "A ju pëlqen ajo që thonë për ne?",
+          "content": "Epo atëherë mos hezitoni të na kontaktoni dhe të zbuloni se si mund t'ju ndihmojmë të keni sukses dhe t'i bëni ëndrrat tuaja të vërteta",
+          "button": "Apliko tani"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+      "header": {
+        "title": "Kundenspezifisches Investment Management",
+        "content": "Es gibt kein Anlageportfolio, das für jeden perfekt ist, aber es gibt ein Anlageportfolio, das für jeden einzelnen Kunden nahezu perfekt ist. Während sich das Leben unserer Kunden entfaltet und sich ihre Ziele und Prioritäten weiterentwickeln, bemühen wir uns, für jeden Kunden das perfekte Portfolio zu finden."
+      },
+      "rangeOfInvest": {
+        "title": "Auf Sie zugeschnittene Anlagepalette",
+        "content": "Wir verwenden eine breite Palette von Instrumenten wie einzelne Aktien und Anleihen, Exchange Traded Funds (ETFs), Investmentfonds, Partnerschaftseinheiten und Optionskontrakte, um Portfolios in zahlreichen Anlageklassen aufzubauen, einschließlich US-amerikanischer und internationaler Aktien im gesamten Marktkapitalisierungsspektrum , US-amerikanische und internationale festverzinsliche Wertpapiere, Immobilien und Edelmetalle."
+      },
+      "clientNeed": {
+        "title": "Tiefes Verständnis der Kundenbedürfnisse",
+        "content": "Wir verwalten Anlageportfolios für viele verschiedene Arten von Kunden, darunter Einzelpersonen und Familien, Trusts, Pensionspläne, Unternehmen und gemeinnützige Organisationen. Wir verstehen, was für verschiedene Kunden unter verschiedenen Umständen und zu verschiedenen Zeiten in ihrem Leben funktioniert. Unabhängig von Ihren Zielen und Ihrer Risikotoleranz bemühen wir uns ständig um ein ausgewogenes Verhältnis zwischen Risiko und potenziellem Ertrag in Ihrem Portfolio."
+      },
+      "investProcess": {
+        "title": "Transparenter Investitionsprozess",
+        "content": "Unser laufendes Portfoliomanagement ist für Sie, unseren Kunden, zu 100% transparent. Ihr Vermögen wird nur in Ihrem Namen auf Konten bei TD Ameritrade Institutional geführt. Sie haben rund um die Uhr sicheren Online-Zugriff auf Ihre Konten bei TD, wo Sie Guthaben, Bestände und Transaktionen anzeigen können."
+      },
+      "investToYourGoal": {
+        "title": "Auf Ihre Ziele zugeschnittene Investitionen",
+        "content": "Das Portfoliomanagement wurde in den letzten Jahren in der gesamten Finanzdienstleistungsbranche stark homogenisiert und verwässert. Zu viele Kunden erhalten Cookie-Cutter-Portfolios und wenig bis gar keine persönliche Beratung. Nicht so bei KreditKos, wo wir stolz darauf sind, Ihnen innovative, kostengünstige und hochsteuereffiziente Portfolios bereitzustellen, die auf Ihre Bedürfnisse zugeschnitten sind und Ihnen helfen, Ihre Ziele zu erreichen."
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Gefällt dir, was sie über uns sagen?",
+          "content": "Dann zögern Sie nicht, uns zu kontaktieren und herauszufinden, wie wir Ihnen zum Erfolg verhelfen und Ihre Träume wahr werden lassen können",
+          "button": "Jetzt bewerben"
+        }
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "Contact": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "header": {
+        "title": "If there is any reason you would like to talk with us,please get in touch.",
+        "content": "Just like you, we are real people, so we prefer to communicate the same way you do. Please shoot our teams an email on one of the addresses below. Alternatively, you can chat online with one of our friendly representatives directly. You can even call us on the telephone machine if you are so inclined."
+      },
+      "needHelp": {
+        "title": "Need Help?",
+        "content": "We're always here for You.",
+        "button": "Chat with Support"
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+
+      "header": {
+        "title": "Nëse ka ndonjë arsye që dëshironi të flisni me ne, ju lutemi kontaktoni.",
+        "content": "Ashtu si ju, ne jemi njerëz të vërtetë, prandaj preferojmë të komunikojmë në të njëjtën mënyrë si ju. Ju lutemi xhironi e-mail ekipeve tona në një nga adresat më poshtë. Përndryshe, ju mund të bisedoni në internet me një nga përfaqësuesit tanë miqësorë drejtpërdrejt. Mund të na telefononi edhe në makinën e telefonit nëse jeni kaq të prirur."
+      },
+      "needHelp": {
+        "title": "Kam nevojë për ndihmë?",
+        "content": "Ne jemi gjithmonë këtu për Ju.",
+        "button": "Bisedoni me mbështetjen"
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+
+      "header": {
+        "title": "Wenn Sie aus irgendeinem Grund mit uns sprechen möchten, setzen Sie sich bitte mit uns in Verbindung.",
+        "content": "Genau wie Sie sind wir echte Menschen, daher bevorzugen wir es, auf die gleiche Weise zu kommunizieren, wie Sie es tun. Bitte schreiben Sie unseren Teams eine E-Mail an eine der unten angegebenen Adressen. Alternativ können Sie direkt mit einem unserer freundlichen Vertreter online chatten. Sie können uns sogar am Telefon anrufen, wenn Sie dazu neigen."
+      },
+      "needHelp": {
+        "title": "Brauchen Sie Hilfe?",
+        "content": "Wir sind immer für Sie da.",
+        "button": "Chatten Sie mit dem Support"
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "Team": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "header": {
+        "title": "Our Team"
+      },
+      "ourTeam": {
+        "job": "Designer Web & Multimédia"
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Do You like what they say about us?",
+          "content": "Well then don’t hesitate to Contact us and discover how we can help you succeed and Make your dreams come true",
+          "button": "Apply now"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+
+      "header": {
+        "title": "Ekipi ynë"
+      },
+      "ourTeam": {
+        "job": "Designer Web & Multimédia"
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "A ju pëlqen ajo që thonë për ne?",
+          "content": "Epo atëherë mos hezitoni të na kontaktoni dhe të zbuloni se si mund t'ju ndihmojmë të keni sukses dhe t'i bëni ëndrrat tuaja të vërteta",
+          "button": "Apliko tani"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+
+      "header": {
+        "title": "Unser Team"
+      },
+      "ourTeam": {
+        "job": "Designer Web & Multimédia"
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Gefällt dir, was sie über uns sagen?",
+          "content": "Dann zögern Sie nicht, uns zu kontaktieren und herauszufinden, wie wir Ihnen zum Erfolg verhelfen und Ihre Träume wahr werden lassen können",
+          "button": "Jetzt bewerben"
+        }
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "Contact": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "header": {
+        "title": "If there is any reason you would like to talk with us,please get in touch.",
+        "content": "Just like you, we are real people, so we prefer to communicate the same way you do. Please shoot our teams an email on one of the addresses below. Alternatively, you can chat online with one of our friendly representatives directly. You can even call us on the telephone machine if you are so inclined."
+      },
+      "needHelp": {
+        "title": "Need Help?",
+        "content": "We're always here for You.",
+        "button": "Chat with Support"
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+
+      "header": {
+        "title": "Nëse ka ndonjë arsye që dëshironi të flisni me ne, ju lutemi kontaktoni.",
+        "content": "Ashtu si ju, ne jemi njerëz të vërtetë, prandaj preferojmë të komunikojmë në të njëjtën mënyrë si ju. Ju lutemi xhironi e-mail ekipeve tona në një nga adresat më poshtë. Përndryshe, ju mund të bisedoni në internet me një nga përfaqësuesit tanë miqësorë drejtpërdrejt. Mund të na telefononi edhe në makinën e telefonit nëse jeni kaq të prirur."
+      },
+      "needHelp": {
+        "title": "Kam nevojë për ndihmë?",
+        "content": "Ne jemi gjithmonë këtu për Ju.",
+        "button": "Bisedoni me mbështetjen"
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+
+      "header": {
+        "title": "Wenn Sie aus irgendeinem Grund mit uns sprechen möchten, setzen Sie sich bitte mit uns in Verbindung.",
+        "content": "Genau wie Sie sind wir echte Menschen, daher bevorzugen wir es, auf die gleiche Weise zu kommunizieren, wie Sie es tun. Bitte schreiben Sie unseren Teams eine E-Mail an eine der unten angegebenen Adressen. Alternativ können Sie direkt mit einem unserer freundlichen Vertreter online chatten. Sie können uns sogar am Telefon anrufen, wenn Sie dazu neigen."
+      },
+      "needHelp": {
+        "title": "Brauchen Sie Hilfe?",
+        "content": "Wir sind immer für Sie da.",
+        "button": "Chatten Sie mit dem Support"
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "StartupAcceleration": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "header": {
+        "title": "Startup Acceleration"
+      },
+      "program": {
+        "title": "Startup Acceleration Program",
+        "content": "Aside from our one-year incubation program and in reaction to the turbulent times we are experiencing. Our business development team here in KreditKos has prepared a new and flexible service for you.",
+        "button1": "See details",
+        "button2": "Apply now"
+      },
+      "investingProcess": {
+        "post1": {
+          "title": "Our money",
+          "content": "We invest our own money in early-stage startups to help speed up, fill the gaps, accelerate their development, and grow."
+        },
+        "post2": {
+          "title": "Financing ideas",
+          "content": "We offer pre-seed financing for founding teams with a scalable, digital AI startup idea."
+        },
+        "post3": {
+          "title": "Your future",
+          "content": "We invest in dedicated founding teams with bold digital ideas and global aspirations"
+        }
+      },
+      "services": {
+        "title": "Not only money",
+        "content1": "As part of our KreditKos Acceleration Program, we provide investments of up to 50.000€ Euros, as well as services aimed at developing business activities and sharing know-how such as",
+        "content2": "•business and marketing strategies,",
+        "content3": "•product development,",
+        "content4": "•business model implementation,",
+        "content5": "•market and competition analysis,",
+        "content6": "•legal entity estabilishment and other legal services,",
+        "content7": "•We partner with you in order to successfully prepare your startup for the next",
+        "content8": "•investment round.",
+        "button": "Apply now"
+      },
+      "process": {
+        "post1": {
+          "title": "Application is received"
+        },
+        "post2": {
+          "title": "Introductory Call"
+        },
+        "post3": {
+          "title": "Technical Evaluation"
+        },
+        "post4": {
+          "title": "Pitching to our Investors"
+        }
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Do You like what they say about us?",
+          "content": "Well then don’t hesitate to Contact us and discover how we can help you succeed and Make your dreams come true",
+          "button": "Apply now"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "header": {
+        "title": "Fillim i Përshpejtuar"
+      },
+      "program": {
+        "title": "Programi i fillimit te përshpejtuar",
+        "content": "Përveç programit tonë një vjeçar të inkubacionit dhe si reagim ndaj kohërave të trazuara që po përjetojmë. Ekipi ynë i zhvillimit të biznesit këtu në KreditKos ka përgatitur një shërbim të ri dhe fleksibël për ju.",
+        "button1": "Shih detajet",
+        "button2": "Apliko tani"
+      },
+      "investingProcess": {
+        "post1": {
+          "title": "Paratë tona",
+          "content": "Ne investojmë paratë tona në fillestare të fazave të hershme për të ndihmuar përshpejtimin, mbushjen e boshllëqeve, përshpejtimin e zhvillimit të tyre dhe rritjen."
+        },
+        "post2": {
+          "title": "Idetë e financimit",
+          "content": "Ne ofrojmë financim para-pasardhës për themelimin e ekipeve me një ide të shkallëzuar, dixhitale për fillimin e AI."
+        },
+        "post3": {
+          "title": "E ardhmja juaj",
+          "content": "Ne investojmë në ekipe themeluese të përkushtuara me ide dixhitale të guximshme dhe aspirata globale"
+        }
+      },
+      "services": {
+        "title": "Jo vetëm paratë",
+        "content1": "Si pjesë e Programit tonë të Përshpejtimit të KreditKos, ne ofrojmë investime deri në 50.000 €, si dhe shërbime që synojnë zhvillimin e aktiviteteve të biznesit dhe ndarjen e njohurive të teknikës si p.sh.",
+        "content2": "•strategjitë e biznesit dhe marketingut,",
+        "content3": "•product development,",
+        "content4": "•implementimi i modelit të biznesit,",
+        "content5": "•analiza e tregut dhe konkurrencës,",
+        "content6": "•themelimi i personit juridik dhe shërbime të tjera juridike,",
+        "content7": "•Ne jemi partner me ju në mënyrë që të përgatisim me sukses fillimin tuaj për tjetrin",
+        "content8": "•raundin e investimeve.",
+        "button": "Apliko tani"
+      },
+
+      "process": {
+        "post1": {
+          "title": "Kërkesa është marrë"
+        },
+        "post2": {
+          "title": "Thirrja hyrëse"
+        },
+        "post3": {
+          "title": "Vlerësimi Teknik"
+        },
+        "post4": {
+          "title": "Pitching për investitorët tanë"
+        }
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "A ju pëlqen ajo që thonë për ne?",
+          "content": "Epo atëherë mos hezitoni të na kontaktoni dhe të zbuloni se si mund t'ju ndihmojmë të keni sukses dhe t'i bëni ëndrrat tuaja të vërteta",
+          "button": "Apliko tani"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+
+      "header": {
+        "title": "Start beschleunigung"
+      },
+      "program": {
+        "title": "Start beschleunigungs programm",
+        "content": "Aside from our one-year incubation program and in reaction to the turbulent times we are experiencing. Our business development team here in KreditKos has prepared a new and flexible service for you.",
+        "button1": "Siehe Einzelheiten",
+        "button2": "Jetzt bewerben"
+      },
+      "investingProcess": {
+        "post1": {
+          "title": "Unser Geld",
+          "content": "Wir investieren unser eigenes Geld in Start-ups im Frühstadium, um zu beschleunigen, Lücken zu schließen, ihre Entwicklung zu beschleunigen und zu wachsen."
+        },
+        "post2": {
+          "title": "Finanzie - rungsideen",
+          "content": "Wir bieten Pre-Seed-Finanzierung für Gründungsteams mit einer skalierbaren, digitalen KI-Startup-Idee."
+        },
+        "post3": {
+          "title": "Deine Zukunft",
+          "content": "Wir investieren in engagierte Gründungsteams mit mutigen digitalen Ideen und globalen Ambitionen"
+        }
+      },
+      "services": {
+        "title": "Nicht nur Geld",
+        "content1": "Im Rahmen unseres KreditKos-Beschleunigungsprogramms bieten wir Investitionen von bis zu 50.000 Euro sowie Dienstleistungen zur Entwicklung von Geschäftsaktivitäten und zum Austausch von Know-how wie z",
+        "content2": "•Geschäfts- und Marketingstrategien,",
+        "content3": "•product development,",
+        "content4": "•Implementierung des Geschäftsmodells,",
+        "content5": "•Markt- und Wettbewerbsanalyse,",
+        "content6": "•Gründung einer juristischen Person und andere juristische Dienstleistungen,",
+        "content7": "•Wir arbeiten mit Ihnen zusammen, um Ihr Startup erfolgreich auf das nächste vorzubereiten",
+        "content8": "•Investitionsrunde.",
+        "button": "Jetzt bewerben"
+      },
+      "process": {
+        "post1": {
+          "title": "Bewerbung ist eingegangen"
+        },
+        "post2": {
+          "title": "Einführung - sgespräch"
+        },
+        "post3": {
+          "title": "Technische Bewertung"
+        },
+        "post4": {
+          "title": "Pitching an unsere Investoren"
+        }
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Gefällt dir, was sie über uns sagen?",
+          "content": "Dann zögern Sie nicht, uns zu kontaktieren und herauszufinden, wie wir Ihnen zum Erfolg verhelfen und Ihre Träume wahr werden lassen können",
+          "button": "Jetzt bewerben"
+        }
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
+    }
+  },
+  "WhyUs": {
+    "english": {
+      "english": "English",
+      "buttons": {
+        "Login": "Log in",
+        "Signup": "Sign Up"
+      },
+      "navbar": [
+        {
+          "Home": "Home",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerships",
+          "News": "News",
+          "Contact": "Contact",
+          "Services": "Services"
+        }
+      ],
+      "header": {
+        "title": "Why Us?"
+      },
+      "whyAreWePerfect": {
+        "title": "Why are we perfect for you",
+        "content": "We differ from a typical Accelerator by understanding Artificial Intelligence (AI) technology and focusing exclusively on AI startups.Our incubation is not following a rigid scheme, we tailor each one to the needs of the startup, its specific situation, strengths, weaknesses, and maturity and we are ready to work remotely."
+      },
+      "whyUsProcessInvestment": {
+        "post1": {
+          "title": "Smart Money",
+          "content": "We understand that each startup comes at varying stages of readiness and with a unique set of challenges. We have a carefully selected pool of investors to make the perfect match with your needs. On top of this our expertise will be available for you anytime."
+        },
+        "post2": {
+          "title": "Financial Investment",
+          "content": "In cooperation with our investors we provide investments starting from 150.000 USD up to 1.500.000 USD for 12 months of incubation program. After the incubation we will also help you fundraising again for your next investment round."
+        },
+        "post3": {
+          "title": "Business & Mentoring",
+          "content": "Leading experts will provide not only legal, financial, marketing, and HR advice, but also support to help you with strategic planning and traction boost. We know domain expertise and execution wins over technology disruption alone."
+        },
+        "post4": {
+          "title": "Individual Approach",
+          "content": "We do not adopt a one-fits-all approach with the startups we partner with. We listen to your needs and create a customized plan addressing the specific challenges your project might face during its development including remote cooperation."
+        }
+      },
+      "Evaluation": {
+        "title": "Evaluation",
+        "content": "At this stage you might be wondering how to get to all those great things described above. The first and most important steps is pressing the apply button and submitting the form that lies beyond. The form has the first questions about your startup, your idea and yourself which we need to start getting to know each other. After confirming the basics we will contact you with an offer of an introductory call in order for you to ask all the possible questions you have in your mind and for us to properly introduce ourselves and to agree on the next steps.",
+        "button": "Apply now"
+      },
+      "process": {
+        "post1": {
+          "title": "Application is received"
+        },
+        "post2": {
+          "title": "Introductory Call"
+        },
+        "post3": {
+          "title": "Technical Evaluation"
+        },
+        "post4": {
+          "title": "Pitching to our Investors"
+        }
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Do You like what they say about us?",
+          "content": "Well then don’t hesitate to Contact us and discover how we can help you succeed and Make your dreams come true",
+          "button": "Apply now"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "About",
+          "team": "Team",
+          "approach": "Approach",
+          "news": "News & Press",
+          "aboutus": "About us"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright info",
+          "disclaimers": "Disclaimers"
+        },
+        "support": {
+          "support": "Support",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Contact us",
+          "guides": "Guides",
+          "documentation": "Documentation"
+        },
+        "download": "Download KreditKos App"
+      }
+    },
+    "shqip": {
+      "shqip": "Shqip",
+      "buttons": {
+        "Login": "Kyqu",
+        "Signup": "Regjistrohu"
+      },
+      "navbar": [
+        {
+          "Home": "Kryefaqja",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partneret",
+          "News": "Lajme",
+          "Contact": "Kontakti",
+          "Services": "Sherbimet"
+        }
+      ],
+      "header": {
+        "title": "Pse ne?"
+      },
+
+      "whyAreWePerfect": {
+        "title": "Pse jemi perfekt për ju",
+        "content": "Ne ndryshojmë nga një përshpejtues tipik duke kuptuar teknologjinë e Inteligjencës Artificiale (AI) dhe duke u përqëndruar ekskluzivisht në fillimet e UA. Inkubacioni ynë nuk po ndjek një skemë të ngurtë, ne përshtatim secilin me nevojat e fillimit, situatën e tij specifike, pikat e forta, dobësitë dhe pjekurinë dhe ne jemi të gatshëm të punojmë në distancë."
+      },
+      "whyUsProcessInvestment": {
+        "post1": {
+          "title": "Para te gatshëme",
+          "content": "Ne e kuptojmë se çdo startup vjen në faza të ndryshme të gatishmërisë dhe me një grup unik sfidash. Ne kemi një grup investitorësh të zgjedhur me kujdes për të bërë një ndeshje perfekte me nevojat tuaja. Mbi të gjitha, ekspertiza jonë do të jetë në dispozicion për ju në çdo kohë."
+        },
+        "post2": {
+          "title": "Investimet financiare",
+          "content": "Në bashkëpunim me investitorët tanë ne ofrojmë investime duke filluar nga 150.000 USD deri në 1.500.000 USD për 12 muaj të programit të inkubacionit. Pas inkubacionit, ne gjithashtu do t'ju ndihmojmë përsëri për mbledhjen e fondeve për raundin tuaj të ardhshëm të investimeve."
+        },
+        "post3": {
+          "title": "Biznes dhe mentorim",
+          "content": "Ekspertët kryesorë do t'ju ofrojnë jo vetëm këshilla ligjore, financiare, marketing dhe burime njerëzore, por gjithashtu edhe mbështetje për t'ju ndihmuar me planifikimin strategjik dhe rritjen e tërheqjes. Ne e dimë që ekspertiza dhe ekzekutimi i fushës fiton vetëm përçarjen e teknologjisë."
+        },
+        "post4": {
+          "title": "Qasja individuale",
+          "content": "Ne nuk adoptojmë një qasje të vetme për të gjitha me startup-et me të cilat kemi partner. Ne i dëgjojmë nevojat tuaja dhe krijojmë një plan të personalizuar që adreson sfidat specifike që projekti juaj mund të hasë gjatë zhvillimit të tij, përfshirë bashkëpunimin në distancë."
+        }
+      },
+      "Evaluation": {
+        "title": "Vlerësimi",
+        "content": "Në këtë fazë ju mund të pyesni se si t'i arrini të gjitha ato gjëra të shkëlqyera të përshkruara më sipër. Hapat e parë dhe më të rëndësishëm është shtypja e butonit të aplikimit dhe dorëzimi i formularit që qëndron përtej. Formulari ka pyetjet e para në lidhje me fillimin tuaj, idenë tuaj dhe veten tuaj të cilat duhet të fillojmë të njohim njëri-tjetrin. Pas konfirmimit të bazave, ne do t'ju kontaktojmë me një ofertë hyrëse në mënyrë që ju të bëni të gjitha pyetjet e mundshme që keni në mendjen tuaj dhe që ne të prezantohemi siç duhet dhe të biem dakord mbi hapat e ardhshëm.",
+        "button": "Apliko tani"
+      },
+      "process": {
+        "post1": {
+          "title": "Kërkesa është marrë"
+        },
+        "post2": {
+          "title": "Thirrja hyrëse"
+        },
+        "post3": {
+          "title": "Vlerësimi Teknik"
+        },
+        "post4": {
+          "title": "Pitching për investitorët tanë"
+        }
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "A ju pëlqen ajo që thonë për ne?",
+          "content": "Epo atëherë mos hezitoni të na kontaktoni dhe të zbuloni se si mund t'ju ndihmojmë të keni sukses dhe t'i bëni ëndrrat tuaja të vërteta",
+          "button": "Apliko tani"
+        }
+      },
+      "footer": {
+        "subscribe": "Subscribe to our Newsletter!",
+        "about": {
+          "about": "Rreth",
+          "team": "Skuadra",
+          "approach": "Qasja",
+          "news": "Lajme & Shtyp",
+          "aboutus": "Rreth nesh"
+        },
+        "legal": {
+          "legal": "Juridike",
+          "terms": "Terms of use",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Informacione për të drejtat e autorit",
+          "disclaimers": "Refuzimet"
+        },
+        "support": {
+          "support": "Mbështetje",
+          "faq": "FAQ",
+          "features": "Tiparet",
+          "contact": "Na kontaktoni",
+          "guides": "Udhëzuesit",
+          "documentation": "Documentation"
+        },
+        "download": "Shkarkoni Aplikacionin KreditKos"
+      }
+    },
+    "german": {
+      "german": "German",
+      "buttons": {
+        "Login": "Anmeldung",
+        "Signup": "Anmelden"
+      },
+      "navbar": [
+        {
+          "Home": "Zuhause",
+          "StartupIncubator": "Startup Incubator",
+          "Partnerships": "Partnerschaften",
+          "News": "Nachrichten",
+          "Contact": "Kontakt",
+          "Services": "Dienstleistungen"
+        }
+      ],
+
+      "header": {
+        "title": "Warum wir?"
+      },
+      "whyAreWePerfect": {
+        "title": "Warum sind wir perfekt für Sie?",
+        "content": "Wir unterscheiden uns von einem typischen Beschleuniger dadurch, dass wir die Technologie der künstlichen Intelligenz (KI) verstehen und uns ausschließlich auf KI-Startups konzentrieren. Unsere Inkubation folgt keinem starren Schema, wir passen jedes auf die Bedürfnisse des Startups, seine spezifische Situation, Stärken, Schwächen und Reife und wir sind bereit, aus der Ferne zu arbeiten."
+      },
+      "whyUsProcessInvestment": {
+        "post1": {
+          "title": "Intelligentes Geld",
+          "content": "Wir verstehen, dass jedes Startup in unterschiedlichen Bereitschaftsstadien und mit einer Reihe einzigartiger Herausforderungen verbunden ist. Wir haben einen sorgfältig ausgewählten Pool von Investoren, um Ihre Bedürfnisse perfekt zu erfüllen. Darüber hinaus steht Ihnen unser Fachwissen jederzeit zur Verfügung."
+        },
+        "post2": {
+          "title": "Finanzielle Investition",
+          "content": "In Zusammenarbeit mit unseren Investoren bieten wir Investitionen von 150.000 USD bis 1.500.000 USD für ein 12-monatiges Inkubationsprogramm an. Nach der Inkubation helfen wir Ihnen auch, wieder Spenden für Ihre nächste Investitionsrunde zu sammeln."
+        },
+        "post3": {
+          "title": "Business & Mentoring",
+          "content": "Führende Experten beraten Sie nicht nur in den Bereichen Recht, Finanzen, Marketing und Personal, sondern unterstützen Sie auch bei der strategischen Planung und der Steigerung der Traktion. Wir wissen, dass Domain-Know-how und Ausführung allein durch technologische Störungen überzeugen."
+        },
+        "post4": {
+          "title": "Individueller Ansatz",
+          "content": "Bei den Startups, mit denen wir zusammenarbeiten, verfolgen wir keinen einheitlichen Ansatz. Wir hören auf Ihre Bedürfnisse und erstellen einen individuellen Plan, der die spezifischen Herausforderungen berücksichtigt, denen Ihr Projekt während seiner Entwicklung gegenüberstehen könnte, einschließlich der Remote-Zusammenarbeit."
+        }
+      },
+      "Evaluation": {
+        "title": "Auswertung",
+        "content": "In diesem Stadium fragen Sie sich vielleicht, wie Sie zu all den oben beschriebenen großartigen Dingen gelangen. Der erste und wichtigste Schritt besteht darin, auf die Schaltfläche \"Anwenden\" zu klicken und das darüber hinausgehende Formular zu senden. Das Formular enthält die ersten Fragen zu Ihrem Startup, Ihrer Idee und sich selbst, die wir benötigen, um uns kennenzulernen. Nach Bestätigung der Grundlagen werden wir Sie mit einem Angebot für einen Einführungsaufruf kontaktieren, damit Sie alle möglichen Fragen stellen können, die Sie in Ihrem Kopf haben, und damit wir uns richtig vorstellen und die nächsten Schritte vereinbaren können.",
+        "button": "Jetzt bewerben"
+      },
+      "process": {
+        "post1": {
+          "title": "Bewerbung ist eingegangen"
+        },
+        "post2": {
+          "title": "Einführung - sgespräch"
+        },
+        "post3": {
+          "title": "Technische Bewertung"
+        },
+        "post4": {
+          "title": "Pitching an unsere Investoren"
+        }
+      },
+      "incubatorcarousel": {
+        "post1": {
+          "title": "I want to invest in startup, I need a team like that",
+          "content": "I perceive the added value of KreditKos startup especially in the fact that you are a team of people who have experience with startups development, as well as with managing their economic system and project management.",
+          "author": "Evan.P"
+        },
+        "post2": {
+          "title": "Gefällt dir, was sie über uns sagen?",
+          "content": "Dann zögern Sie nicht, uns zu kontaktieren und herauszufinden, wie wir Ihnen zum Erfolg verhelfen und Ihre Träume wahr werden lassen können",
+          "button": "Jetzt bewerben"
+        }
+      },
+      "footer": {
+        "subscribe": "Abonnieren Sie unseren Newsletter!",
+        "about": {
+          "about": "Über",
+          "team": "Mannschaft",
+          "approach": "Ansatz",
+          "news": "Nachrichten & Presse",
+          "aboutus": "Über uns"
+        },
+        "legal": {
+          "legal": "Legal",
+          "terms": "Nutzungsbedingungen",
+          "privacy": "Privacy Policy",
+          "copyrightinfo": "Copyright-Informationen",
+          "disclaimers": "Haftungsausschluss"
+        },
+        "support": {
+          "support": "Unterstützung",
+          "faq": "FAQ",
+          "features": "Features",
+          "contact": "Kontaktiere uns",
+          "guides": "Führer",
+          "documentation": "Documentation"
+        },
+        "download": "Laden Sie die KreditKos App herunter"
+      }
     }
   }
 }

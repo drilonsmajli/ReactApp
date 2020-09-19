@@ -1,0 +1,62 @@
+.WhyUsProcessInvesting {
+  width: 100%;
+  min-height: 400px;
+
+  .WhyUsProcessInvesting__wrapper {
+    width: 70%;
+    height: 300px;
+    margin: auto;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+
+    .post {
+      width: 20%;
+      height: 100%;
+
+      .post__img {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        img {
+          border-radius: 20px;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+        .post__content {
+          border-radius: 20px;
+          position: absolute;
+          background: rgba(79, 108, 131, 0.5);
+          width: 100%;
+          height: 100%;
+          margin-top: -305px;
+          color: #ffffff;
+          h3 {
+            text-align: center;
+            height: 30px;
+            margin-bottom: 0;
+          }
+          p {
+            text-align: center;
+            font-size: 13px;
+            height: 195px;
+            width: 90%;
+            margin: auto;
+          }
+          .post__icon {
+            width: 20%;
+            height: 45px;
+            margin: auto;
+            img {
+              width: 90%;
+              height: 90%;
+              object-fit: fill;
+              border-radius: 0;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,382 @@
+.navbar {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: auto;
+
+  @media (max-width: 1024px) {
+    width: 100%;
+    max-height: 800px;
+  }
+  @media (max-width: 800px) {
+    width: 100%;
+    max-height: 800px;
+  }
+  @media (max-width: 600px) {
+    width: 100%;
+    max-height: 540px;
+  }
+
+  .alice-carousel {
+    height: 100vh;
+    .alice-carousel__prev-btn {
+      display: none;
+    }
+    .alice-carousel__dots {
+      position: absolute;
+      width: 100%;
+      height: 20%;
+      top: 65%;
+    }
+  }
+
+  .child {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    color: white;
+    top: 0;
+    text-align: center;
+    .toolbar {
+      position: fixed;
+    }
+
+    .info {
+      width: 900px;
+      margin-left: 150px;
+      height: 310px;
+      padding: 35px;
+      .title {
+        text-align: left;
+        margin-top: 100px;
+        h3 {
+          font-size: 43px;
+        }
+        p {
+          font-size: 35px;
+          color: #ffffff;
+          opacity: 1;
+        }
+      }
+      @media (max-width: 1024px) {
+        margin-left: 0;
+        .title {
+          width: 800px;
+          margin-top: 100px;
+          h3 {
+            font-size: 35px;
+          }
+          p {
+            font-size: 30px;
+            color: #ffffff;
+            opacity: 1;
+          }
+        }
+      }
+      @media (max-width: 800px) {
+        margin-left: 0;
+        height: 150px;
+        .title {
+          width: 500px;
+          margin-top: 80px;
+          h3 {
+            font-size: 25px;
+          }
+          p {
+            font-size: 23px;
+            color: #ffffff;
+            opacity: 1;
+          }
+        }
+      }
+      @media (max-width: 600px) {
+        margin-left: 0;
+        width: 300px;
+        height: 150px;
+        .title {
+          font-size: 7px;
+          width: 270px;
+          margin-top: 30px;
+          h3 {
+            font-size: 17px;
+          }
+          p {
+            font-size: 15px;
+            color: #ffffff;
+            opacity: 1;
+          }
+        }
+      }
+    }
+
+    .infoButton {
+      margin-top: 140px;
+      width: 900px;
+      height: 140px;
+      display: flex;
+      justify-content: center;
+      padding: 40px;
+      .infoButton1 {
+        padding: 15px;
+        .btn {
+          width: 200px;
+          height: 60px;
+          background-color: rgb(108, 148, 205);
+          outline: none;
+          text-align: center;
+          border-radius: 40px;
+          background: rgb(57, 131, 156);
+          border: 2px solid rgb(57, 131, 156);
+          color: #ffffff;
+          letter-spacing: 1px;
+          text-shadow: 0;
+          font: {
+            size: 12px;
+          }
+          cursor: pointer;
+          transition: all 0.25s ease;
+          &:hover {
+            color: #000000;
+            background: rgb(57, 131, 156);
+          }
+          &:active {
+            //letter-spacing: 2px;
+            letter-spacing: 2px;
+          }
+        }
+      }
+      .infoButton2 {
+        padding: 15px;
+        .btn {
+          border-radius: 20px;
+          width: 200px;
+          height: 60px;
+          background-color: rgb(108, 148, 205);
+          outline: none;
+          text-align: center;
+          border-radius: 40px;
+          background: rgb(57, 131, 156);
+          border: 2px solid rgb(57, 131, 156);
+          color: #ffffff;
+          letter-spacing: 1px;
+          text-shadow: 0;
+          font-size: 12px;
+          cursor: pointer;
+          transition: all 0.25s ease;
+          &:hover {
+            color: #000000;
+            background: rgb(57, 131, 156);
+          }
+          &:active {
+            //letter-spacing: 2px;
+            letter-spacing: 2px;
+          }
+        }
+      }
+      @media (max-width: 1024px) {
+        width: 670px;
+        margin-top: 90px;
+        margin-left: 10px;
+        .infoButton1 {
+          padding: 0;
+          width: 160px;
+          height: 50px;
+          margin-left: -310px;
+          .btn {
+            width: 150px;
+            height: 50px;
+            margin-left: 0px;
+          }
+        }
+        .infoButton2 {
+          padding: 0;
+          width: 150px;
+          height: 50px;
+          margin-left: 5px;
+          .btn {
+            width: 150px;
+            height: 50px;
+            margin-left: 0px;
+          }
+        }
+      }
+      @media (max-width: 800px) {
+        width: 670px;
+        margin-top: 180px;
+        margin-left: 10px;
+        .infoButton1 {
+          padding: 0;
+          width: 150px;
+          height: 50px;
+          margin-left: -300px;
+          .btn {
+            width: 150px;
+            height: 50px;
+            margin-left: 0px;
+          }
+        }
+        .infoButton2 {
+          padding: 0;
+          width: 150px;
+          height: 50px;
+          margin-left: 5px;
+          .btn {
+            width: 150px;
+            height: 50px;
+            margin-left: 0px;
+          }
+        }
+      }
+      @media (max-width: 600px) {
+        width: 330px;
+        margin-top: 50px;
+        margin-left: 10px;
+        .infoButton1 {
+          padding: 0;
+          width: 50%;
+          height: 40px;
+          margin-left: -70px;
+          .btn {
+            width: 100%;
+            height: 40px;
+            margin-left: 0px;
+          }
+        }
+        .infoButton2 {
+          padding: 0;
+          width: 50%;
+          height: 40px;
+          margin-left: 5px;
+          .btn {
+            width: 100%;
+            height: 40px;
+            margin-left: 0px;
+          }
+        }
+      }
+    }
+
+    .Navbar__footer {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      justify-content: space-between;
+      background: #000000 0% 0% no-repeat padding-box;
+      opacity: 0.95;
+      padding: 15px;
+      margin-top: 9%;
+      @media (max-width: 1024px) {
+        font-size: 13px;
+        height: 100%;
+        margin-top: 10%;
+      }
+      @media (max-width: 800px) {
+        font-size: 11px;
+        height: 100%;
+        margin-top: 25%;
+      }
+      @media (max-width: 600px) {
+        font-size: 10px;
+        margin-top: 27%;
+      }
+      .footer__wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+
+        @media (max-width: 800px) {
+          height: 140px;
+          width: 80%;
+        }
+        @media (max-width: 600px) {
+          height: 70px;
+          width: 80%;
+        }
+        .demo__account {
+          width: 350px;
+          margin-left: 0px;
+          @media (max-width: 1024px) {
+            margin-left: 10px;
+            img {
+              width: 35px;
+            }
+            p {
+              font-size: 12px;
+            }
+            h5 {
+              margin-top: 15px;
+              font-size: 10px;
+            }
+          }
+          @media (max-width: 800px) {
+            margin-left: 10px;
+            img {
+              width: 35px;
+            }
+            p {
+              font-size: 10px;
+            }
+            h5 {
+              font-size: 10px;
+              margin-top: 7px;
+            }
+          }
+          @media (max-width: 600px) {
+            width: 100px;
+            margin-left: 10px;
+            img {
+              width: 20px;
+            }
+            p {
+              font-size: 5px;
+              margin-top: -10px;
+            }
+            h5 {
+              font-size: 7px;
+            }
+          }
+        }
+        .deposit {
+          width: 350px;
+          margin-left: 0;
+          @media (max-width: 600px) {
+            width: 100px;
+            margin-left: 10px;
+            margin-top: 0px;
+            height: 70px;
+            img {
+              width: 20px;
+            }
+            p {
+              font-size: 5px;
+              margin-top: -10px;
+            }
+            h5 {
+              font-size: 7px;
+            }
+          }
+        }
+        .investment {
+          width: 350px;
+          @media (max-width: 600px) {
+            width: 100px;
+            margin-left: 10px;
+            margin-top: 0px;
+            height: 70px;
+            img {
+              width: 20px;
+            }
+            p {
+              font-size: 5px;
+              margin-top: -10px;
+            }
+            h5 {
+              font-size: 7px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

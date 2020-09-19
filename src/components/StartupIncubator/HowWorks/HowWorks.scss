@@ -1,0 +1,123 @@
+.howworks {
+  text-align: center;
+  height: 430px;
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  @media (max-width: 600px) {
+    width: 100%;
+  }
+  .content {
+    position: relative;
+    margin-left: 350px;
+    margin-top: 60px;
+    width: 890px;
+    height: 300px;
+    border: 1px solid var(--unnamed-color-6c94cd);
+    border: 1px solid #6c94cd;
+    border-radius: 12px;
+    opacity: 1;
+    text-align: left;
+    font: normal normal normal 20px/27px Segoe UI;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    @media (max-width: 1024px) {
+      width: 700px;
+      height: 260px;
+      margin-left: 10px;
+    }
+    @media (max-width: 800px) {
+      width: 500px;
+      height: 260px;
+      margin-left: 0px;
+    }
+    @media (max-width: 600px) {
+      width: 80%;
+      height: 200px;
+      margin-left: 10px;
+    }
+    .text {
+      width: 85%;
+      margin-left: 80px;
+      height: 300px;
+      letter-spacing: 0px;
+      color: #161616;
+      font-size: 14px;
+      padding: 50px;
+      @media (max-width: 1024px) {
+        padding: 30px;
+        margin-left: 0;
+      }
+      @media (max-width: 800px) {
+        height: 255px;
+        font-size: 10px;
+        margin-left: 0;
+      }
+      @media (max-width: 600px) {
+        width: 80%;
+        height: 200px;
+        font-size: 7px;
+        margin-left: 0px;
+        overflow: scroll;
+      }
+    }
+
+    .img {
+      position: absolute;
+      width: 320px;
+      height: 280px;
+      margin-left: 800px;
+      margin-top: -360px;
+      display: flex;
+
+      img {
+        width: 380px;
+        height: 287px;
+        object-fit: cover;
+        object-position: 250% 0%;
+        border-radius: 25px;
+        @media (max-width: 1024px) {
+          width: 300px;
+          height: 220px;
+          font-size: 8px;
+          margin-left: -140px;
+          margin-top: 10px;
+        }
+        @media (max-width: 800px) {
+          width: 250px;
+          height: 200px;
+          font-size: 8px;
+          margin-left: 550px;
+          margin-top: -180px;
+        }
+        @media (max-width: 600px) {
+          object-fit: fill;
+          width: 100px;
+          height: 150px;
+          font-size: 8px;
+          margin-left: 0px;
+          margin-top: 0px;
+        }
+      }
+      @media (max-width: 800px) {
+        width: 250px;
+        font-size: 8px;
+        height: 150px;
+        margin-left: -100px;
+        margin-top: -130px;
+      }
+      @media (max-width: 600px) {
+        width: 90%;
+        font-size: 8px;
+        height: 150px;
+        margin-left: 0;
+        margin-top: -230px;
+        img {
+          margin-left: 85%;
+          width: 50%;
+        }
+      }
+    }
+  }
+}

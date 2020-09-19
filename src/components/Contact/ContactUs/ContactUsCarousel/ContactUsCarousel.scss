@@ -1,0 +1,75 @@
+.ContactUsCarousel {
+  width: 100%;
+
+  .carousel {
+    margin-top: 0px;
+    margin-left: 0px;
+    .control-dots {
+      display: none;
+    }
+    .slide {
+      background: none;
+      text-align: left;
+    }
+  }
+
+  .ContactUsCarousel__row {
+    width: 90%;
+    min-height: 700px;
+    margin: auto;
+    display: block;
+    justify-content: space-between;
+    margin-bottom: 40px;
+    margin-top: 40px;
+
+    .ContactUsCarousel__post {
+      width: 70%;
+      height: 200px;
+      margin: auto;
+      border: 1px solid var(--unnamed-color-6c94cd);
+      background: #ffffff 0% 0% no-repeat padding-box;
+      box-shadow: 0px 0px 30px #6500001c;
+      border: 1px solid #6c94cd;
+      border-radius: 12px;
+      opacity: 1;
+      margin-top: 20px;
+
+      .post__title {
+        width: 90%;
+        height: 60%;
+        margin: auto;
+        .title {
+          display: flex;
+          margin: 0;
+          margin-top: 20px;
+          h4 {
+            width: 70%;
+            height: 30px;
+            margin: 0;
+          }
+          img {
+            width: 20px;
+            height: 20px;
+            border-radius: 40px;
+          }
+        }
+        p {
+          font: normal normal normal 18px/20px Circular Std Book;
+          letter-spacing: 0px;
+          color: #4d4d4d;
+          opacity: 1;
+        }
+      }
+      .ContactUsCarousel__contact__number {
+        width: 90%;
+        height: 30%;
+        margin: auto;
+        color: var(--unnamed-color-6c94cd);
+        font: normal normal normal 20px/20px Circular Std Medium;
+        letter-spacing: 0px;
+        color: #6c94cd;
+        opacity: 1;
+      }
+    }
+  }
+}

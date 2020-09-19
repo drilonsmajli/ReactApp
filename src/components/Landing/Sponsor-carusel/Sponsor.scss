@@ -1,0 +1,17 @@
+.sponsor {
+  width: 100%;
+  background-color: rgb(39, 34, 34);
+
+  .content {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    @media (max-width: 800px) {
+      font-size: 15px;
+      margin-left: -20px;
+    }
+    @media (max-width: 600px) {
+      font-size: 12px;
+    }
+  }
+}

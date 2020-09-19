@@ -1,0 +1,180 @@
+.Program {
+  text-align: center;
+  height: 500px;
+  display: flex;
+  width: 100%;
+  overflow: hidden;
+  @media (max-width: 600px) {
+    max-height: 300px;
+  }
+
+  .content {
+    position: relative;
+    margin-left: 670px;
+    margin-top: 60px;
+    width: 890px;
+    height: 300px;
+    background: rgba(0, 0, 0, 0.8);
+    border: 1px solid #afafaf;
+    border-radius: 12px;
+    text-align: left;
+    font-size: 20px;
+    color: #ffffff;
+    opacity: 1;
+    @media (max-width: 1024px) {
+      width: 700px;
+      height: 260px;
+      margin-left: 200px;
+    }
+    @media (max-width: 800px) {
+      width: 500px;
+      height: 260px;
+      margin-left: 200px;
+    }
+    @media (max-width: 600px) {
+      width: 100%;
+      height: 200px;
+      margin-left: 110px;
+    }
+    .text {
+      width: 80%;
+      margin-left: 80px;
+      height: 300px;
+      letter-spacing: 0px;
+      color: #ffffff;
+      font-size: 14px;
+      h1 {
+        height: 40px;
+      }
+      p {
+        font-size: 17px;
+        height: 40%;
+      }
+      @media (max-width: 800px) {
+        height: 255px;
+        font-size: 10px;
+      }
+      @media (max-width: 600px) {
+        width: 70%;
+        height: 200px;
+        font-size: 7px;
+        margin-left: 55px;
+        overflow: scroll;
+        h1 {
+          height: 40px;
+          font-size: 12px;
+        }
+        p {
+          font-size: 9px;
+        }
+      }
+
+      .program__button {
+        width: 40%;
+        display: flex;
+        justify-content: space-between;
+        height: 40px;
+        float: right;
+        @media (max-width: 1024px) {
+          width: 50%;
+        }
+        @media (max-width: 800px) {
+          width: 70%;
+        }
+        @media (max-width: 600px) {
+          width: 100%;
+        }
+
+        .see-details {
+          width: 45%;
+          border-radius: 20px;
+          background-color: rgb(108, 148, 205);
+          outline: none;
+          text-align: center;
+          border-radius: 10px;
+          background: transparent;
+          border: 2px solid rgb(57, 131, 156);
+          color: #ffffff;
+          letter-spacing: 1px;
+          text-shadow: 0;
+          font-size: 12px;
+          cursor: pointer;
+          transition: all 0.25s ease;
+          &:hover {
+            letter-spacing: 2px;
+          }
+        }
+
+        .apply-now {
+          width: 45%;
+          border-radius: 20px;
+          background-color: rgb(108, 148, 205);
+          outline: none;
+          text-align: center;
+          border-radius: 10px;
+          background: rgb(57, 131, 156);
+          border: 2px solid rgb(57, 131, 156);
+          color: #ffffff;
+          letter-spacing: 1px;
+          text-shadow: 0;
+          font-size: 12px;
+          cursor: pointer;
+          transition: all 0.25s ease;
+          &:hover {
+            letter-spacing: 2px;
+          }
+          &:active {
+            //letter-spacing: 2px;
+            letter-spacing: 2px;
+          }
+        }
+        @media (max-width: 600px) {
+          .see-details {
+            font-size: 8px;
+          }
+          .apply-now {
+            font-size: 8px;
+          }
+        }
+      }
+    }
+
+    .img {
+      position: absolute;
+      width: 320px;
+      height: 280px;
+      margin-left: -270px;
+      margin-top: -230px;
+      display: flex;
+      background: url("../../../assets/mimi.png");
+      border-radius: 25px;
+      background-position: 35% 65%;
+      background-size: cover;
+
+      @media (max-width: 1024px) {
+        width: 250px;
+        font-size: 8px;
+        height: 230px;
+        margin-left: -190px;
+        margin-top: -200px;
+        background-size: cover;
+      }
+      @media (max-width: 800px) {
+        width: 250px;
+        font-size: 8px;
+        height: 190px;
+        margin-left: -190px;
+        margin-top: -130px;
+        background-size: cover;
+      }
+      @media (max-width: 600px) {
+        width: 150px;
+        font-size: 8px;
+        height: 150px;
+        margin-left: -100px;
+        margin-top: -130px;
+        background-size: cover;
+      }
+    }
+  }
+}

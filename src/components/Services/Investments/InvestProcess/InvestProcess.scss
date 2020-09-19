@@ -1,0 +1,119 @@
+.InvestProcess {
+  width: 100%;
+  .InvestProcess__wrapper {
+    width: 80%;
+    height: 340px;
+    margin: auto;
+    display: flex;
+
+    @media (max-width: 1024px) {
+      width: 90%;
+    }
+    @media (max-width: 800px) {
+      width: 90%;
+    }
+    @media (max-width: 600px) {
+      width: 90%;
+    }
+
+    .InvestProcess__img {
+      width: 30%;
+      height: 80%;
+      margin-top: 30px;
+      img {
+        margin-top: 50px;
+        margin-left: 25%;
+      }
+      @media (max-width: 1024px) {
+        width: 30%;
+        height: 80%;
+        margin: auto;
+        img {
+          margin-left: 0;
+        }
+      }
+      @media (max-width: 800px) {
+        width: 30%;
+        height: 80%;
+        margin: auto;
+        img {
+          margin-left: 0;
+        }
+      }
+      @media (max-width: 600px) {
+        width: 30%;
+        height: 50%;
+        margin: auto;
+        img {
+          width: 100%;
+          margin-left: 0;
+        }
+      }
+    }
+    .InvestProcess__text {
+      border: 2px solid green;
+      width: 60%;
+      height: 80%;
+      margin-top: 30px;
+      border: 1px solid var(--unnamed-color-6c94cd);
+      border: 1px solid #6c94cd;
+      border-radius: 12px;
+      opacity: 1;
+      background: var(--unnamed-color-343837) 0% 0% no-repeat padding-box;
+      background: #343837 0% 0% no-repeat padding-box;
+      border-radius: 12px;
+      h1 {
+        padding: 30px;
+        margin: 0;
+        height: 70px;
+        font: normal normal 600 27px/24px Poppins;
+        letter-spacing: 0px;
+        color: #ffffff;
+        opacity: 1;
+      }
+      p {
+        width: 90%;
+        height: 70%;
+        padding: 30px;
+        margin: 0;
+        font: normal normal normal 20px/27px Segoe UI;
+        letter-spacing: 0px;
+        color: #ffffff;
+        opacity: 1;
+      }
+      @media (max-width: 1024px) {
+        width: 70%;
+        h1 {
+          font-size: 20px;
+        }
+        p {
+          font-size: 18px;
+          width: 100%;
+          overflow: scroll;
+        }
+      }
+      @media (max-width: 800px) {
+        width: 70%;
+        h1 {
+          font-size: 20px;
+        }
+        p {
+          font-size: 18px;
+          width: 100%;
+          overflow: scroll;
+        }
+      }
+      @media (max-width: 600px) {
+        width: 70%;
+        h1 {
+          font-size: 12px;
+        }
+        p {
+          font-size: 10px;
+          width: 100%;
+          overflow: scroll;
+        }
+      }
+    }
+  }
+}

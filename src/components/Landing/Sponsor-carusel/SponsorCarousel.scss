@@ -1,0 +1,42 @@
+.sponsor__wrapper {
+  width: 100%;
+  background-color: rgb(39, 34, 34);
+
+  .sponsor__image {
+    width: 20%;
+    height: 20%;
+    margin: auto;
+
+    img {
+      width: 100%;
+      height: 200px;
+    }
+    @media (max-width: 1024px) {
+      img {
+        width: 100%;
+        height: 100%;
+      }
+      .mediakos {
+        margin-top: 70px;
+      }
+    }
+    @media (max-width: 800px) {
+      img {
+        width: 100%;
+        height: 100%;
+      }
+      .mediakos {
+        margin-top: 50px;
+      }
+    }
+    @media (max-width: 600px) {
+      img {
+        width: 100%;
+        height: 100%;
+      }
+      .mediakos {
+        margin-top: 30px;
+      }
+    }
+  }
+}

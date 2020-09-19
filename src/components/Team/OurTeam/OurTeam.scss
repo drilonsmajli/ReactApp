@@ -1,0 +1,108 @@
+.OurTeam {
+  width: 100%;
+  .OurTeam__wrapper {
+    width: 90%;
+    margin: auto;
+
+    .row {
+      width: 70%;
+      height: 350px;
+      margin: auto;
+      margin-top: 10px;
+      margin-bottom: 50px;
+      display: flex;
+      justify-content: space-between;
+
+      .post {
+        width: 23%;
+        height: 100%;
+
+        .image__post {
+          text-align: center;
+          width: 100%;
+          height: 100%;
+          border-radius: 25px;
+          border: 1px solid lightblue;
+          .top__post {
+            width: 100%;
+            height: 50%;
+            border-radius: 25px 25px 0 0;
+            background: transparent
+              linear-gradient(
+                116deg,
+                var(--unnamed-color-6c94cd) 0%,
+                #9ab8e4 100%
+              )
+              0% 0% no-repeat padding-box;
+            background: transparent
+              linear-gradient(116deg, #6c94cd 0%, #9ab8e4 100%) 0% 0% no-repeat
+              padding-box;
+            opacity: 1;
+          }
+
+          @media (max-width: 600px) {
+            margin-left: 10%;
+          }
+          .post__offer {
+            .wave {
+              width: 100%;
+              height: auto;
+
+              position: relative;
+              bottom: 40px;
+              @media (max-width: 600px) {
+                bottom: 30px;
+                height: 180px;
+              }
+
+              .chart {
+                position: absolute;
+                width: 100%;
+                height: 130px;
+                top: 55px;
+                h4 {
+                  margin-bottom: 0;
+                }
+
+                .chart__icons {
+                  display: flex;
+                  width: 40%;
+                  height: 30px;
+                  margin: auto;
+                  justify-content: space-between;
+                  i {
+                    width: 20px;
+                    height: 20px;
+                    margin: auto;
+                    background-color: rgb(52, 52, 192);
+                    color: white;
+                    border-radius: 70px;
+                  }
+                }
+              }
+              .icons {
+                position: relative;
+                background-color: inherit;
+                border-radius: 100px;
+                bottom: 40px;
+                width: 50px;
+                height: 50px;
+                margin-left: 40%;
+                background: var(--unnamed-color-6c94cd) 0% 0% no-repeat
+                  padding-box;
+                background: #6c94cd 0% 0% no-repeat padding-box;
+                opacity: 1;
+                img {
+                  width: 100%;
+                  height: 100%;
+                  border-radius: 45px;
+                  object-fit: cover;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
